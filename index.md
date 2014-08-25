@@ -9,4 +9,4 @@ layout: homepage
 Also know as {{ site.nick }}, in the gaming world.
 --------------------------------------------------
 
-[Blog](/blog) | [Person](/person) | [Projects](/projects) | [Accounts](/page) | [Contact](/contact)
+<p><a href='/blog'>Blog</a> | <a href='/person'>Person</a> | <a href='/projects'>Projects</a> | <a href='/page'>Accounts</a> | <a href='/contact'>Contact</a></p>
