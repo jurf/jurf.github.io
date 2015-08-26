@@ -191,8 +191,8 @@ ul.posts {
   /* standard */
 
   pre {
-    border: 1px solid #ddd;
-    background-color: #eef;
+    border: 2px solid gray;
+    background-color: #333;
     padding: 0 .4em;
   }
 
@@ -202,8 +202,8 @@ ul.posts {
   }
 
   code {
-    border: 1px solid #D3D3D3;
-    background-color: #808080;
+    border: 2px solid gray;
+    background-color: #333;
     font-size: 85%;
     padding: 0 .2em;
   }
@@ -215,9 +215,9 @@ ul.posts {
   /* terminal */
 
   pre.terminal {
-    border: 1px solid black;
+    border: 2px solid gray;
     background-color: #333;
-    color: white;
+    color: lightgray;
   }
 
   pre.terminal code {
