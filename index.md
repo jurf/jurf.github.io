@@ -6,7 +6,7 @@ layout: homepage
 {{ site.author }}
 =================
 
-Also know as {{ site.nick }}, in the gaming world.
+Also known as {{ site.nick }}, in the gaming world.
 --------------------------------------------------
 
 [Blog](/blog) \| [Person](/person) \| [Projects](/projects) \| [Accounts](/accounts) \| [Contact](/contact)
