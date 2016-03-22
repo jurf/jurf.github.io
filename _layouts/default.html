@@ -8,30 +8,36 @@
    <!-- CSS -->
    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/style.css" type="text/css" media="screen, projection" />
 
-   <!-- Typekit -->
-   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
-   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
 
-  <div class="site">
-    <div class="title">
-      <a href=/>{{ site.author }}</a>
+  <div class="wrap">
+    <div class="sidebar">
 
-      <a class="extra" href="/blog">Blog</a> |
-      <a class="extra" href="/person">Person</a> |
-      <a class="extra" href="/projects">Projects</a> |
-      <a class="extra" href="/accounts">Accounts</a> |
-      <a class="extra" href="/contact">Contact</a>
+      <a class="home" href=/>Home</a><br>
+      <a href="/blog">Blog</a><br>
+      <a href="/person">Person</a><br>
+      <a href="/projects">Projects</a><br>
+      <a href="/accounts">Accounts</a><br>
+      <a href="/contact">Contact</a><br>
 
-      <h1>{{ page.title }}</h1>
     </div>
 
-    {{ content }}
+    <div class="site">
+      <div class="content">
+
+        <div class="title">{{ page.title }}</div>
+        {{ content }}
+
+      </div>
+    </div>
 
     <div class="footer">
-      Copyright (c) Juraj Fiala 2014 (<a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>)     
-      <div class="jekyll">Source code available on <a href="https://github.com/DoctorJellyface/doctorjellyface.github.io">GitHub</a>. Proudly powered by <a href="http://jekyllrb.com/">Jekyll</a>.</div>
+
+      © Juraj Fiala 2014-2016 (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>).
+      Source code available on <a href="https://github.com/DoctorJellyface/doctorjellyface.github.io">GitHub</a>.
+      Proudly powered by <a href="https://jekyllrb.com/">Jekyll</a>.
+
     </div>
   </div>
 
