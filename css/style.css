@@ -142,22 +142,22 @@ ul.posts {
   overflow: auto;
 }
 
-  .sidebar a.home {
-    color: grey;
-    font-weight: bold;
-  }
-
-    .sidebar a.home:hover {
-      color: white;
-    }
-
   .sidebar a {
     color: grey;
     text-decoration: none;
   }
 
     .sidebar a:hover {
-      color: darkgray;
+      color: white;
+    }
+
+  .sidebar a.home {
+    color: grey;
+    font-weight: bold;
+  }
+
+    .sidebar a.home:hover {
+      color: inherit;
     }
 
 .footer {
