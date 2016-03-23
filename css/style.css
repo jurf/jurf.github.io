@@ -76,8 +76,12 @@ ul.posts {
 .homepage {
   text-align: center;
   position: relative;
-  top: 40%;
+  top: 38%;
   color: dimgrey;
+}
+
+.homepage p {
+  word-spacing: 200%;
 }
 
 .homepage a {
