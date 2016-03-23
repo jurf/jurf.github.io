@@ -183,38 +183,31 @@ ul.posts {
 
   /* standard */
 
-  pre {
-    border: 2px solid gray;
+  pre,
+  code {
+    border: 1px solid dimgray;
+    border-radius: 3px;
     background-color: #333;
-    padding: 0 .4em;
-  }
-
-  ul,
-  ol {
-    margin-left: 1.35em;
+    font-size: 10pt;
+    color: whitesmoke;
   }
 
   code {
-    border: 2px solid gray;
-    background-color: #333;
-    font-size: 85%;
-    padding: 0 .2em;
+    padding: 0 .5em;
+  }
+
+  pre {
+    padding: .3em .3em;
   }
 
     pre code {
       border: none;
+      padding: 0;
     }
 
-  /* terminal */
-
-  pre.terminal {
-    border: 2px solid gray;
-    background-color: #333;
-    color: lightgray;
-  }
-
-  pre.terminal code {
-    background-color: #333;
+  ul,
+  ol {
+    margin-left: 1.35em;
   }
 
 #related {
