@@ -6,4 +6,4 @@ title: Person
 Short
 =====
 
-Unity3D C# Programmer. Linuxer. Lubuntu user and fan. Open-source lover.
+Arch Linux, devoted GNOME user, C# Unity3D coder. Loves Pink Floyd music. Gets older every day. Open source wherever possible.
