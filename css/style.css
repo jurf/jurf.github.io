@@ -81,13 +81,14 @@ ul.posts {
 }
 
 .homepage p {
+  margin-top: .5em;
   word-spacing: 200%;
 }
 
 .homepage a {
   color: grey;
   text-decoration: none;
-  font-weight: bold;
+  font-size: 120%;
 }
 
 .homepage a:hover {
