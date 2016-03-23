@@ -32,7 +32,7 @@ h2 {
 }
 
 p {
-  margin: 0.5em 0;
+  margin: .5em 0;
 }
 
 a {
@@ -98,7 +98,7 @@ ul.posts {
 .homepage h1 {
   color: white;
   font-size: 600%;
-  margin-bottom: 0.2em;
+  margin-bottom: .2em;
 }
 
 .homepage h2 {
@@ -130,7 +130,7 @@ ul.posts {
 }
 
 .title {
-  margin-bottom: 0.5em;
+  margin-bottom: .5em;
   font-size: 200%;
   font-weight: bold;
 }
@@ -139,7 +139,7 @@ ul.posts {
   position: fixed;
   right: 70%;
   margin-top: 5em;
-  padding: 0 0.5em;
+  padding: 0 .5em;
 
   text-align: right;
   line-height: 130%;
