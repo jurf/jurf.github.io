@@ -16,7 +16,7 @@ html, body {
 body {
   background-color: #111;
   font: 14px Arial, Helvetica, sans-serif;
-  color: white;
+  color: whitesmoke;
 }
 
 h3, h4, h5, h6 {
@@ -32,15 +32,19 @@ h2 {
 }
 
 p {
-  margin: .5em 0;
+  margin: .8em 0;
+  line-height: 135%;
 }
 
 a {
   color: white;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 a:hover {
-  color: grey;
+  color: white;
+  text-decoration: underline;
 }
 
 table {
@@ -56,17 +60,32 @@ blockquote {
 
 ul.posts {
   list-style-type: none;
+  margin-top: 2em;
   margin-bottom: 2em;
 }
 
+  ul.posts a {
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    font-size: 150%;
+  }
+
+    ul.posts a:hover {
+      border-bottom: 1px solid white;
+    }
+
   ul.posts li {
-    line-height: 1.75em;
+    margin-bottom: 1em;
   }
 
   ul.posts span {
-    color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
+    color: darkgrey;
+    font-size: 90%;
+  }
+
+  ul.posts code {
+    font-size: 70%;
   }
 
 /*---------------------------------------------------------------------------*/
@@ -93,18 +112,20 @@ ul.posts {
 
 .homepage a:hover {
   color: darkgrey;
+  text-decoration: underline;
 }
 
 .homepage h1 {
   color: white;
   font-size: 600%;
-  margin-bottom: .2em;
+  margin-bottom: .15em;
 }
 
 .homepage h2 {
-  font-size: 150%;
+  font-size: 170%;
   font-weight: normal;
   color: lightgrey;
+  margin-bottom: .5em;
 }
 
 /*---------------------------------------------------------------------------*/
@@ -117,7 +138,7 @@ ul.posts {
 }
 
 .site {
-  max-width: 45em;
+  max-width: 40em;
   margin-left: 30%;
 }
 
@@ -127,6 +148,16 @@ ul.posts {
 
 .content {
   padding: 2em 1em 2em;
+}
+
+.content a {
+  border-bottom: 1px dashed whitesmoke;
+}
+
+.content a:hover {
+  color: whitesmoke;
+  border-bottom: 1px solid whitesmoke;
+  text-decoration: none;
 }
 
 .title {
@@ -147,18 +178,26 @@ ul.posts {
   overflow: auto;
 }
 
+  .sidebar p {
+    margin: 0.4em 0;
+  }
+
   .sidebar a {
     color: grey;
+    font-weight: normal;
     text-decoration: none;
   }
 
     .sidebar a:hover {
-      color: white;
+      color: lightgrey;
+      text-decoration: underline;
     }
 
   .sidebar a.home {
     color: grey;
     font-weight: bold;
+    padding-left: 0.4em;
+    padding-bottom: 0.12em;
   }
 
     .sidebar a.home:hover {

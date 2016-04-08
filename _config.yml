@@ -4,3 +4,10 @@ timezone: Europe/Bratislava
 author: "Juraj Fiala"
 email: "doctorjellyface@riseup.net"
 nick: "Doctor Jellyface"
+
+defaults:
+  -
+    scope:
+      path: "" # All files
+    values:
+      layout: "default"
