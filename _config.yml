@@ -5,12 +5,12 @@ author: "Juraj Fiala"
 email: "doctorjellyface@riseup.net"
 nick: "Doctor Jellyface"
 
+gems:
+    - jekyll-feed
+
 defaults:
   -
     scope:
       path: "" # All files
     values:
       layout: "default"
-
-gems:
-    - jekyll-feed
