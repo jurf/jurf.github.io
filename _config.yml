@@ -11,3 +11,6 @@ defaults:
       path: "" # All files
     values:
       layout: "default"
+
+gems:
+    - jekyll-feed
