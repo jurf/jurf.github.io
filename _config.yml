@@ -14,3 +14,9 @@ defaults:
       path: "" # All files
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /blog/:categories/:year/:month/:day/:title/
