@@ -107,6 +107,7 @@ ul.posts {
 .homepage a {
   color: grey;
   text-decoration: none;
+  font-weight: normal;
   font-size: 120%;
 }
 
