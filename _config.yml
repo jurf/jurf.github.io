@@ -21,3 +21,5 @@ defaults:
       type: "posts"
     values:
       permalink: /blog/:categories/:year/:month/:day/:title/
+
+theme: jekyll-theme-minimal
