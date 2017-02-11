@@ -1,4 +1,8 @@
+.bundle
+vendor
+Gemfile.lock
 _site
+*.gem
 *~
 *.swp
 *.swo

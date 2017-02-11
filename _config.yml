@@ -1,9 +1,13 @@
-github: [Repository metadata]
 timezone: Europe/Bratislava
+title: Juraj Fiala
+description: Welcome, to my very own internet ~/
 
-author: "Juraj Fiala"
-email: "doctorjellyface@riseup.net"
-nick: "Doctor Jellyface"
+author: Juraj Fiala
+email: doctorjellyface@riseup.net
+twitter_username: DoctorJellyface
+github_username: DoctorJellyface
+disqus:
+  shortname: doctorjellyface.disqus.com
 
 gems:
     - jekyll-feed
@@ -12,14 +16,14 @@ gems:
 defaults:
   -
     scope:
-      path: "" # All files
-    values:
-      layout: "default"
-  -
-    scope:
       path: ""
       type: "posts"
     values:
       permalink: /blog/:categories/:year/:month/:day/:title/
 
-theme: jekyll-theme-minimal
+# Build settings
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

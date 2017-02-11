@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Contact
+permalink: /contact/
 ---
 
 Want to contact me?

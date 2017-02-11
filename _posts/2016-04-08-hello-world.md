@@ -1,5 +1,6 @@
 ---
-title: Hello... world
+layout: post
+title: Hello… world
 ---
 
 Well, this is my very first blog post. I'll probably write here time to time,
@@ -69,7 +70,7 @@ What I'm especially happy about is that when I create my own site I can avoid
 all the stuff I hate about the web. I can proudly say this site doesn't suffer
 from mobile design illness, it's text is neither too big or too apart or too
 wide, it's pleasantly readable and doesn't make your eyes hurt. (Maybe a tad
-bigger text would be better? Also I'm not overfond of the font) The site ATM
+bigger text would be better? Also I'm not overfond of the font.) The site ATM
 doesn't contain any script and most of it is static, except for the sidebar,
 which doesn't catch the attention too much, but still serves as a firm point
 while scrolling.
