@@ -7,7 +7,7 @@ email: doctorjellyface@riseup.net
 twitter_username: DoctorJellyface
 github_username: DoctorJellyface
 disqus:
-  shortname: doctorjellyface.disqus.com
+  shortname: doctorjellyface
 
 gems:
     - jekyll-feed
