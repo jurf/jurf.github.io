@@ -1,28 +1,26 @@
-timezone: Europe/Bratislava
-title: Juraj Fiala
+# Site settings
+title:       Juraj Fiala
 description: Welcome, to my very own internet ~/
 
+# Personal info
 author: Juraj Fiala
-email: doctorjellyface@riseup.net
+email:  doctorjellyface@riseup.net
+
+# Other accounts
 twitter_username: DoctorJellyface
-github_username: DoctorJellyface
+github_username:  DoctorJellyface
 disqus:
-  shortname: doctorjellyface
-
-gems:
-    - jekyll-feed
-    - jekyll-sitemap
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: /blog/:categories/:year/:month/:day/:title/
+  shortname:      doctorjellyface
 
 # Build settings
-theme: minima
+timezone:  Europe/Bratislava
+permalink: pretty
+theme:     minima
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock

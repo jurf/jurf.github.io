@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Person
-permalink: /person/
 ---
 
 Short
