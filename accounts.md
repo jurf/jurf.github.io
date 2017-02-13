@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Accounts
-permalink: /accounts/
 ---
 
 ```
