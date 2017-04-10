@@ -38,7 +38,7 @@ with the opinions of the masses.
 
 When I finally realised that I was spending far too much time looking at 
 memes and watching gifs I decided to clean my subreddit subscriptions, 
-throwing out all the meme and ‘for-fun' ones, leaving me only with the 
+throwing out all the meme and 'for-fun' ones, leaving me only with the 
 ones that interested me, assuring myself that my time on Reddit will now 
 be utilised much better. I even subscribed to news subreddits thinking 
 that'll make me an expert in terms of what is going on.
