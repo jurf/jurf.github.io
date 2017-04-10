@@ -54,7 +54,7 @@ replaced my need for any Linux-related sub. And, most importantly, I get
 much more sleep and finally have time for things that are actually 
 useful for my life.
 
-Now, I'm not condemning Reddit completely--some of its small dedicated 
+Now, I'm not condemning Reddit completely---some of its small dedicated 
 subs are priceless. But I will no longer be a part of them. I have more 
 important things to do.
 
