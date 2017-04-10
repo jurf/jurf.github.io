@@ -1,2 +1,1 @@
-My internet ~/, made in Jekyll.
-There's no place like ~/
+My very own internet `~/`, made in Jekyll.
