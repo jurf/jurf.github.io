@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Gnome Doesn’t Suck, You’re Using It Wrong
+title: Gnome Doesn’t Suck, You’re Just Using It Wrong
 ---
 
 (I know, click-bait title, couldn't resist.)
 
-Ever since Ubuntu announced that they're [switching to GNOME][0] as their
-default desktop environment, online discussions about it have exploded. I
-thought this extra publicity would do GNOME good but the most frequent comments
-I see are 'the default settings suck, they should be this way' or 'why don't
-they add `<x>`, it's so obvious!', and of course 'GNOME is focused on touch,
-that's why it sucks'. Please let me clear things up a little.
+Ever since Ubuntu announced that they're [switching to GNOME][0] as 
+their default desktop environment, online discussions about it have 
+exploded. I thought this extra publicity would do GNOME good but the 
+most frequent comments I see are 'the default settings _suck_, they 
+should be this way' or 'why don't they add `x`, it's so obvious!', and 
+of course 'GNOME is focused on touch, that's why it sucks'. Please let 
+me clear things up a little.
 
 I feel ya
 ---------
@@ -54,17 +55,26 @@ defaults, even the wallpaper, and tried to live with it.
 
 And I realised a lot of things, _exempli gratia_:
 
- * the default un-tweaked `Alt+Tab`is actually much better than having a dock
- * dynamic workspaces are quite good for organising stuff, and that I don't
- * need to name them/set default workspaces for apps to stay organised I really
- * do not need to minimise windows, and for that one time that is useful I can
- * just use `Super+H` the default theme, even though it took me quite some time
- * to accept the look (which I later grew to love so much I ported it to GTK+
- * 2), is much more functional than the others (by that I mean it doesn't
- * prefer looks over other values), has much better contrast, is much better
- * supported and the bigger paddings are make it much nicer to use, especially
- * on non-mouse inputs searching is a really fast way to do stuff keyboard
- * shortcuts are _really_ powerful in GNOME
+ * the default un-tweaked `Alt+Tab`is actually much better than having a 
+
+ * dock dynamic workspaces are quite good for organising stuff, and that 
+
+ * I don't need to name them/set default workspaces for apps to stay 
+   organised
+
+ * I really do not need to minimise windows, and for that one time that 
+   is useful I can just use `Super+H`
+
+ * the default theme, even though it took me quite some time  to accept 
+   the look (which I later grew to love so much I ported it to GTK+
+   2), is much more functional than the others (by that I mean it 
+   doesn't prefer looks over other values), has much better contrast, is 
+   much better supported and the bigger paddings are make it much nicer 
+   to use, especially on non-mouse inputs
+
+ * searching is a really fast way to do stuff 
+
+ * keyboard shortcuts are _really_ powerful in GNOME
 
 What has all of this got to do with me?
 ---------------------------------------
@@ -88,18 +98,18 @@ complaining that your tooth brush sucks at brushing hair.
 Footnote
 --------
 
-GNOME isn't perfect, or for everyone (shock! But seriously, people just prefer
-different workflows and that's fine), and I'm not saying that. There are plenty
-of things either awaiting design or implementation, things that need to be
-redone (as is being done with almost the whole of control center) or things
-that people need persuading for (destructive middle-click anyone?). But there's
-always room for new contributors with tons of friendly people happy to get you
-started.
+GNOME isn't perfect, or for everyone (shock! But seriously, people just 
+prefer different workflows and that's fine), and I'm not saying that.  
+There are plenty of things either awaiting design or implementation, 
+things that need to be redone (as is being done with almost the whole of 
+the control center) or things that people need persuading for 
+(destructive middle-click anyone?). But there's always room for new 
+contributors with tons of friendly people happy to get you started.
 
 If you've read it this far, uh, thanks, I didn't really expect that. If you
 think I'm wrong feel free to leave a comment, I'll try to answer as soon as I
 can. Stay hip!
 
-[0]: (http://www.omgubuntu.co.uk/2017/04/ubuntu-18-04-ship-gnome-desktop-not-unity)
+[0]: http://www.omgubuntu.co.uk/2017/04/ubuntu-18-04-ship-gnome-desktop-not-unity
 
 [//]: # ( vim: set tw=72 fo=awntq spell spelllang=en:)
