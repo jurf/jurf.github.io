@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gnome Doesn't Suck, You're Using It Wrong
+title: Gnome Doesn’t Suck, You’re Using It Wrong
 ---
 
 (I know, click-bait title, couldn't resist.)
@@ -43,8 +43,8 @@ dock keep hiding? Who thought that was a good idea?), even changed the font
 entire home directory by accident. I had enough of tweaking so I only re-did
 the most important things, but it still changed the GNOME experience entirely.)
 
-Paradigm Shift(tm)
-------------------
+Paradigm Shift™
+---------------
 
 As I met more GNOME guys, I found out that there was actually carefully
 though-out work behind all the questionable design choices. I saw setups where
@@ -67,6 +67,7 @@ And I realised a lot of things, _exempli gratia_:
  * shortcuts are _really_ powerful in GNOME
 
 What has all of this got to do with me?
+---------------------------------------
 
 The thing I'm trying to say is that GNOME isn't an empty plate---it's an
 extremely well thought out system meant to be used by anyone, where everything
