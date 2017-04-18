@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gnome Doesn’t Suck, You’re Just Using It Wrong
+title: GNOME Doesn’t Suck, You’re Just Using It Wrong
 ---
 
 (I know, click-bait title, couldn't resist.)
