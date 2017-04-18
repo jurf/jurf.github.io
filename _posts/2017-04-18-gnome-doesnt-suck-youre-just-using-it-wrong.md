@@ -69,7 +69,8 @@ And I realised a lot of things, _exempli gratia_:
    much better supported and the bigger paddings are make it much nicer 
    to use, especially on non-mouse inputs
  * searching is a really fast way to do stuff
- * keyboard shortcuts are _really_ powerful in GNOME
+ * keyboard shortcuts are powerful enough for a keyboard-centric
+   workflow
 
 What has all of this got to do with me?
 ---------------------------------------
