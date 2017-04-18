@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I left Reddit
+title: I Left Reddit
 ---
 
 Hah, I would've never even thought about writing a post like this a year 
