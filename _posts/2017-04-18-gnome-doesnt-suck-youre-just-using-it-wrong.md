@@ -95,7 +95,7 @@ Footnote
 --------
 
 GNOME isn't perfect, or for everyone (shock! But seriously, people just 
-prefer different workflows and that's fine), and I'm not saying that.  
+prefer different workflows and that's fine), and I'm not saying that. 
 There are plenty of things either awaiting design or implementation, 
 things that need to be redone (as is being done with almost the whole of 
 the control center) or things that people need persuading for 
