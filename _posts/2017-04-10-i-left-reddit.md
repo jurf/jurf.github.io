@@ -43,7 +43,7 @@ ones that interested me, assuring myself that my time on Reddit will now
 be utilised much better. I even subscribed to news subreddits thinking 
 that'll make me an expert in terms of what is going on.
 
-Thankfully, on one day, I ventured [here][0]. Who would‘ve thought 
+Thankfully, on one day, I ventured [here][0]. Who would've thought 
 Randall Monroe would be the guy who'd open my eyes.
 
 And guess what, a month has passed and I haven't missed Reddit once. I 
@@ -54,9 +54,12 @@ replaced my need for any Linux-related sub. And, most importantly, I get
 much more sleep and finally have time for things that are actually 
 useful for my life.
 
-Now, I'm not condemning Reddit completely---some of its small dedicated 
-subs are priceless. But I will no longer be a part of them. I have more 
-important things to do.
+Now, I'm not condemning Reddit completely, some of its small dedicated 
+subs are priceless---but I will no longer be a part of them. Quite 
+frankly, I have more important things to do.
+
+**Edit:** Hm, to be honest I find this post a bit harsh in retrospect. 
+It wasn't all that bad. We had good times. But it's time to move on.
 
 [0]: https://www.reddit.com/r/xkcd/comments/5ufeza/great_randall/
 
