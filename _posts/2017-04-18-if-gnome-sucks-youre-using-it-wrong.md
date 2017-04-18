@@ -56,24 +56,19 @@ defaults, even the wallpaper, and tried to live with it.
 And I realised a lot of things, _exempli gratia_:
 
  * the default un-tweaked `Alt+Tab`is actually much better than having a 
-
- * dock dynamic workspaces are quite good for organising stuff, and that 
-
- * I don't need to name them/set default workspaces for apps to stay 
+   dock
+ * dynamic workspaces are quite good for organising stuff, and that 
+   I don't need to name them/set default workspaces for apps to stay 
    organised
-
  * I really do not need to minimise windows, and for that one time that 
    is useful I can just use `Super+H`
-
  * the default theme, even though it took me quite some time  to accept 
    the look (which I later grew to love so much I ported it to GTK+
    2), is much more functional than the others (by that I mean it 
    doesn't prefer looks over other values), has much better contrast, is 
    much better supported and the bigger paddings are make it much nicer 
    to use, especially on non-mouse inputs
-
- * searching is a really fast way to do stuff 
-
+ * searching is a really fast way to do stuff
  * keyboard shortcuts are _really_ powerful in GNOME
 
 What has all of this got to do with me?
