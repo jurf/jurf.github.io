@@ -3,9 +3,8 @@ layout: page
 title: About
 ---
 
-Wannabe GNOME dev & typography nerd. Fedora user, Vim enthusiast. 
-Occasional designer. Loves Pink Floyd music, or anything progrock really, 
-and some Beatles. Also, Adventure Time!
+Wannabe GNOME dev & typography nerd. Practical philosopher.
+Occasional designer. Music taste (mostly) stuck in the 70s.
 
 I try hard to be a minimalist, but I’m not doing very well.
 
