@@ -22,19 +22,19 @@ Reddit app of choice) was my most used app of all. I wasn't spending
 that much time, but it definitely was an hour a day, at least, 
 refreshing and refreshing.
 
-One would think that for an hour a day one would get a ton of valuable
+One would think that for an hour a day one would get a tonne of valuable 
 information, but to be frank, that just isn't true. Yes, you get a lot 
 of information on hobbies and the such, but for them to get to you, they 
 have to get viral. You no longer curate stuff depending your own 
 interests, it gets curated for you by the masses. The other significant 
-occupier of your front page are mostly memes, gifs, jokes and other 
+occupiers of your front page are mostly memes, gifs, jokes and other 
 temporary low-quality satisfactions.
 
 Another problem is the comment section, the biggest and most pointless
 time-killer of all. If you think you are doing yourself any good by 
-reading them, you aren't. Trust me, very few creditable people go there. 
-Reading them will just slowly but surely morph your opinions to conform 
-with the opinions of the masses.
+reading them, you aren't. Trust me, very few creditable people go there.
+Reading them will just slowly, but surely, morph your opinions to 
+conform with the _popular_ opinion.
 
 When I finally realised that I was spending far too much time looking at 
 memes and watching gifs I decided to clean my subreddit subscriptions, 

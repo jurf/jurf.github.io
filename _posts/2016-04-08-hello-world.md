@@ -8,6 +8,10 @@ documenting the more interesting parts of my work, if anyone will care to read.
 I'll see how it goes. Anyway, since this is the first post I should probably
 write about how I set this up, right? Right.
 
+> **Update:** I’ve since changed my site to use the default Minima theme, which
+> is much easier to maintain, _and_ includes a mobile theme. Plus, I think it’s
+> rather nice. Anyway, I’ll leave this post here, it’s not that bad.
+
 Well, this site runs Jekyll. Why? Easy choice. I wanted something where I
 wouldn't need to bother with hosting, as my expirience with Wordpress sites
 already taught me to avoid them as much as possible. Unless you have a lot of
