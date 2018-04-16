@@ -20,7 +20,7 @@ Note that the nightly won’t be a nightly per se, more of a weekly, because my
 Thinkpad X220 and 50KB/s upload only handle that much.
 
 As always, contributions, of any kind, welcome, and please report any bugs you
-may find either on the scribus-flatpak [Github page][5] or [upstream][6].
+may find either on the scribus-flatpak [GitHub page][5] or [upstream][6].
 Cheers!
 
 [0]: http://drjurf.tk/scribus-flatpak/scribus-nightly.flatpakref
