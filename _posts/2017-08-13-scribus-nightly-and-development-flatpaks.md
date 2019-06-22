@@ -3,6 +3,9 @@ layout: post
 title: Scribus Nightly & Development are Now Available as Flatpaks
 ---
 
+**Update:** Scribus is now available on [Flathub][7]; the nightlies are
+currently unmaintained.
+
 You heard it. Getting the latest Scribus is now as easy as clicking this
 [link][0]. (Of course, you need Flatpak [installed][1].)
 
@@ -30,3 +33,4 @@ Cheers!
 [4]: https://drjurf.tk/scribus-flatpak
 [5]: https://github.com/jurf/scribus-flatpak/issues
 [6]: https://bugs.scribus.net
+[7]: https://flathub.org/apps/details/net.scribus.Scribus
