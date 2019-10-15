@@ -10,7 +10,7 @@ email:  jurf@riseup.net
 twitter_username: eurai_fjalla
 github_username:  jurf
 disqus:
-  shortname:      jurf
+  shortname:      doctorjellyface # Cannot be changed
 
 # Build settings
 timezone:  Europe/Bratislava
