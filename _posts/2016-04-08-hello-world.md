@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello… World
+title: Hello… world
 ---
 
 Well, this is my very first blog post. I’ll probably write here time to time,
