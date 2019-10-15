@@ -1,27 +1,29 @@
 # Site settings
 title:       Juraj Fiala
-description: Welcome, to my very own internet ~/
+description: My very own little internet ~/
 
 # Personal info
 author: Juraj Fiala
 email:  jurf@riseup.net
 
 # Other accounts
-twitter_username: doctorjurf
+twitter_username: eurai_fjalla
 github_username:  jurf
 disqus:
-  shortname:      doctorjellyface
+  shortname:      jurf
 
 # Build settings
 timezone:  Europe/Bratislava
 permalink: pretty
 theme:     minima
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - README.md
