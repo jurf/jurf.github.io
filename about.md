@@ -3,8 +3,16 @@ layout: page
 title: About
 ---
 
-Wannabe GNOME developer & minimalist. Typography nerd. Practical philosopher.
-Christian. Analogue photographer. Impressionist. Detailist. Lazy guitarist.
-Occasional designer. Music taste (mostly) stuck in the 70s.
+Juraj Fiala.
+------------
 
-[//]: # ( vim: set tw=72 fo=awntq spell spelllang=en:)
+Practical philosopher.\
+Optimistic melancholic.\
+Christian.\
+Detailist.\
+Lazy guitarist.\
+Wannabe minimalist.\
+Designer/typographer to-be.\
+Photographer.\
+Analogue geek.\
+Bookworm.
