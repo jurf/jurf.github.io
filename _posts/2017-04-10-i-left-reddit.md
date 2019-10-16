@@ -9,7 +9,7 @@ it might help others too.
 
 I used to be a proud Redditor, bragging about it a lot, even if never
 really persuading anyone to join me (but I did try). I was a part of a
-ton of communities, wrote quite a lot of comments and spent a lot of
+tonne of communities, wrote quite a lot of comments and spent a lot of
 time there. Like, _a lot_. But for a long time, I didn’t realise that at
 all.
 
@@ -55,7 +55,7 @@ much more sleep and finally have time for things that are actually
 useful for my life.
 
 Now, I’m not condemning Reddit completely, some of its small dedicated
-subs are priceless---but I will no longer be a part of them. Quite
+subs are priceless -- but I will no longer be a part of them. Quite
 frankly, I have more important things to do.
 
 **Edit:** Hm, to be honest, I find this post a bit harsh in retrospect.
