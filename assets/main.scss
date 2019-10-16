@@ -20,13 +20,17 @@ body {
 pre, code {
     font-family: "Source Code Pro";
     font-size: 14px;
+    /* Remove colour */
+    background-color: #efefef;
 }
 
 ul, ol {
-    /* More spacious lists */
-    margin-left: 35px;
-    li {
-        padding-left: 8px;
+    /* More spacious lists on desktop */
+    @media screen and (min-width: 800px) {
+        margin-left: 35px;
+        li {
+            padding-left: 8px;
+        }
     }
 
     /* Fix code not having a space in lists */
