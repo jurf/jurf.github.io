@@ -1,0 +1,50 @@
+---
+---
+
+@import "minima";
+
+/*
+ * CSS Overrides
+ * -------------
+ */
+
+/* Remote fonts */
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i,900|Source+Code+Pro&display=swap&subset=latin-ext');
+
+/* Change fonts, ensure kerning is on */
+body {
+    font-family: "Lato";
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern";
+}
+pre, code {
+    font-family: "Source Code Pro";
+    font-size: 14px;
+}
+
+ul, ol {
+    /* More spacious lists */
+    margin-left: 35px;
+    li {
+        padding-left: 8px;
+    }
+
+    /* Fix code not having a space in lists */
+    pre, code {
+        margin-right: 0.25em;
+    }
+}
+
+/* Nicer subheadings */
+.post-content {
+    h2, h3, h4, h5, h6 {
+        margin-bottom: 15px;
+        margin-top: 30px;
+        font-size: inherit;
+        font-variant: all-small-caps; letter-spacing: 0.08em;
+    }
+    h2 { font-weight: 900; }
+    h3 { font-weight: 700; }
+    h4 { font-weight: 400; }
+    h5, h6 { font-weight: 300; }
+}
