@@ -1,6 +1,7 @@
 # Site settings
-title:       Juraj Fiala
-description: My very own little internet ~/
+title:       Ramblings
+description: On life and such
+url:         "https://fjalla.tk"
 
 # Personal info
 author: Juraj Fiala
@@ -16,6 +17,10 @@ disqus:
 timezone:  Europe/Bratislava
 permalink: pretty
 theme:     minima
+markdown:  CommonMarkGhPages
+commonmark:
+  options: ["SMART", "STRIKETHROUGH_DOUBLE_TILDE"]
+  extensions: ["strikethrough", "autolink"]
 
 plugins:
   - jekyll-feed
@@ -23,7 +28,4 @@ plugins:
   - jekyll-seo-tag
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
   - README.md
