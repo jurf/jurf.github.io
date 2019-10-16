@@ -9,38 +9,46 @@
  */
 
 /* Remote fonts */
-@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i,900|Source+Code+Pro&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i,900&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Lora:400&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 
 /* Change fonts, ensure kerning is on */
 body {
     font-family: "Lato";
+    h1, .post-link {
+        font-family: "Lora";
+    }
     text-rendering: optimizeLegibility;
     font-feature-settings: "kern";
+    font-variant: common-ligatures contextual proportional-nums oldstyle-nums;
 }
 pre, code {
     font-family: "Source Code Pro";
     font-size: 14px;
-    /* Remove colour */
+    /* Remove hue */
     background-color: #efefef;
 }
 
+/* Fix code not having a space in lists */
 ul, ol {
-    /* More spacious lists on desktop */
-    @media screen and (min-width: 800px) {
-        margin-left: 35px;
-        li {
-            padding-left: 8px;
-        }
-    }
-
-    /* Fix code not having a space in lists */
     pre, code {
         margin-right: 0.25em;
     }
 }
 
-/* Nicer subheadings */
 .post-content {
+    /* More spacious lists on desktop */
+    ul, ol {
+        @media screen and (min-width: 800px) {
+            margin-left: 35px;
+            li {
+                padding-left: 8px;
+            }
+        }
+    }
+
+    /* Nicer subheadings */
     h2, h3, h4, h5, h6 {
         margin-bottom: 15px;
         margin-top: 30px;
