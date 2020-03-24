@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integrating Fedora Toolbox into VS Code (with the help of SSH)
+title: Integrating Fedora Toolbox into VS Code (with the help of SSH)
 ---
 
 [VS Code][code] has become my favourite editor as of late, however, using it out of a Flatpak environment on Fedora Silverblue is limited. You can [configure][flatpak-spawn] the built-in terminal to run in Toolbox, but that doesn’t help if extensions need tooling installed.
@@ -24,7 +24,7 @@ $ sudo /usr/libexec/openssh/sshd-keygen ed25519
 
 Inside `/etc/ssh/sshd_config`, ensure these options are set:
 
-```ssh_config
+```ssh-config
 Port 2222                 # Prevent conflicts with other SSH servers
 ListenAddress localhost   # Don’t allow remote connections
 PermitEmptyPasswords yes  # Containers lack passwords by default
@@ -36,7 +36,7 @@ Exit the toolbox. You can now run the server with a `toolbox run sudo /usr/sbin/
 
 Add this to your `~/.ssh/config`:
 
-```ssh_config
+```ssh-config
 Host toolbox
     HostName localhost
     Port 2222
