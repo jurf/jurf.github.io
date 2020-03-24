@@ -7,19 +7,18 @@ title: Integrating Fedora Toolbox into VS Code (with the help of SSH)
 
 Copying the approach of [CLion and WSL][clion-wsl], this is a straight-forward how-to for container-based development in VS Code.
 
-First, [create][toolbox] a toolbox.
+First, [create and enter][toolbox] a toolbox. Once inside, we need to install and configure the SSH server.
 
 ```text
-$ toolbox enter
-$ sudo dnf install openssh-server
+⬢[user@toolbox ~]$ sudo dnf install openssh-server
 ```
 
 On a regular Fedora system, launching `sshd` with `systemctl` would trigger `sshd-keygen.target`. We can’t do this in Toolbox, so we have to do it manually.
 
 ```text
-$ sudo /usr/libexec/openssh/sshd-keygen rsa
-$ sudo /usr/libexec/openssh/sshd-keygen ecdsa
-$ sudo /usr/libexec/openssh/sshd-keygen ed25519
+⬢[user@toolbox ~]$ sudo /usr/libexec/openssh/sshd-keygen rsa
+⬢[user@toolbox ~]$ sudo /usr/libexec/openssh/sshd-keygen ecdsa
+⬢[user@toolbox ~]$ sudo /usr/libexec/openssh/sshd-keygen ed25519
 ```
 
 Inside `/etc/ssh/sshd_config`, ensure these options are set:
