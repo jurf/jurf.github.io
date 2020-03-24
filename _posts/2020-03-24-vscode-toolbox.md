@@ -9,14 +9,14 @@ Copying the approach with [CLion and WSL][clion-wsl], this is a straight-forward
 
 First, [create][toolbox] a toolbox.
 
-```bash
+```text
 $ toolbox enter
 $ sudo dnf install openssh-server
 ```
 
 On a regular Fedora system, launching `sshd` with `systemctl` would trigger `sshd-keygen.target`. We can’t do this in Toolbox, so we have to do it manually.
 
-```bash
+```text
 $ sudo /usr/libexec/openssh/sshd-keygen rsa
 $ sudo /usr/libexec/openssh/sshd-keygen ecdsa
 $ sudo /usr/libexec/openssh/sshd-keygen ed25519
@@ -24,7 +24,7 @@ $ sudo /usr/libexec/openssh/sshd-keygen ed25519
 
 Inside `/etc/ssh/sshd_config`, ensure these options are set:
 
-```ssh-config
+```text
 Port 2222                 # Prevent conflicts with other SSH servers
 ListenAddress localhost   # Don’t allow remote connections
 PermitEmptyPasswords yes  # Containers lack passwords by default
@@ -36,7 +36,7 @@ Exit the toolbox. You can now run the server with a `toolbox run sudo /usr/sbin/
 
 Add this to your `~/.ssh/config`:
 
-```ssh-config
+```text
 Host toolbox
     HostName localhost
     Port 2222
