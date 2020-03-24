@@ -5,7 +5,7 @@ title: Integrating Fedora Toolbox into VS Code (with the help of SSH)
 
 [VS Code][code] has become my favourite editor as of late, however, using it out of a Flatpak environment on Fedora Silverblue is limited. You can [configure][flatpak-spawn] the built-in terminal to run in Toolbox, but that doesn’t help if extensions need tooling installed.
 
-Copying the approach with [CLion and WSL][clion-wsl], this is a straight-forward how-to to container-based development in VSCode.
+Copying the approach of [CLion and WSL][clion-wsl], this is a straight-forward how-to for container-based development in VS Code.
 
 First, [create][toolbox] a toolbox.
 
