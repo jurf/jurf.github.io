@@ -1,14 +1,14 @@
 # Site settings
 title:       Ramblings
 description: On life and such
-url:         "https://fjalla.tk"
+url:         "https://jurf.github.io"
 
 # Personal info
 author: Juraj Fiala
-email:  jurf@riseup.net
+email:  jurajfiala@pm.me
 
 # Other accounts
-twitter_username: eurai_fjalla
+twitter_username: juraj_fiala
 github_username:  jurf
 disqus:
   shortname:      doctorjellyface # Cannot be changed
