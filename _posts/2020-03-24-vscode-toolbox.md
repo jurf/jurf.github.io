@@ -43,9 +43,13 @@ Host toolbox
 
 Inside VS Code, install the ‘[Remote – SSH][remote]’ extension, initialise a connection and pick ‘toolbox’ as the host, and enjoy.
 
+[**Bonus tip**](symlinks): Open your projects via `/var/home/…` instead of
+`/home/…` to avoid symlink bugs.
+
 [code]: https://flathub.org/apps/details/com.visualstudio.code
 [flatpak-spawn]: https://discussion.fedoraproject.org/t/developing-applications-using-flatpak-packaged-editors-ides/269/19
 [toolbox]: https://docs.fedoraproject.org/en-US/fedora-silverblue/toolbox/#toolbox-first-toolbox
 [clion-wsl]: https://github.com/JetBrains/clion-wsl
 [source]: https://discussion.fedoraproject.org/t/ssh-into-a-toolbox/2155/12
 [remote]: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
+[symlinks]: https://discussion.fedoraproject.org/t/tip-use-var-home-instead-of-home-in-vs-code/21887
