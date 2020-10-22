@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick tip: Make sure TRIM is enabled on your encrypted Silverblue
+title: Quick tip – Make sure TRIM is enabled on your encrypted Silverblue
 ---
 
 My system has been going sluggish lately. After getting suspicious, I decided
