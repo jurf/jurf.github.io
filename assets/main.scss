@@ -9,15 +9,13 @@
  */
 
 /* Remote fonts */
-@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i,900&display=swap&subset=latin-ext');
-@import url('https://fonts.googleapis.com/css?family=Lora:400&display=swap&subset=latin-ext');
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400;1,700&family=Miriam+Libre&family=Source+Code+Pro&display=swap');
 
 /* Change fonts, ensure kerning is on */
 body {
     font-family: "Lato";
     .post-title, .post-link {
-        font-family: "Lora";
+        font-family: "Miriam Libre";
         letter-spacing: 0px;
         line-height: 1.3;
     }
