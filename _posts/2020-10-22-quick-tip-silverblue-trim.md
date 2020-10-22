@@ -20,7 +20,7 @@ luks-123abcdef-etc: 0 1234567 crypt aes-xts-plain64 000etc000 0 8:2 4096 1 allow
 …
 ```
 
-If you see `allow_discards` on every relevant entry like above, you’re all
+If you see `allow_discards` on every relevant entry (like above), you’re all
 set. If not, [run][bug]
 
 ```sh
