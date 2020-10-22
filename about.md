@@ -6,13 +6,16 @@ title: About
 Juraj Fiala.
 ------------
 
-Practical philosopher.\
+Student.\
+Designer/typographer to-be.\
+Photographer.\
+Coder.\
+Annoyingly down-to-earth philosopher.\
 Optimistic melancholic.\
-Christian.\
+Depressive optimist.\
+Catholic.\
 Detailist.\
 Lazy guitarist.\
 Wannabe minimalist.\
-Designer/typographer to-be.\
-Photographer.\
 Analogue geek.\
-Bookworm.
+Aspiring born-again bookworm.
