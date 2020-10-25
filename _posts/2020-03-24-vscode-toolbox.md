@@ -43,7 +43,7 @@ Host toolbox
 
 Inside VS Code, install the ‘[Remote – SSH][remote]’ extension, initialise a connection and pick ‘toolbox’ as the host, and enjoy.
 
-[**Bonus tip**](symlinks): Open your projects via `/var/home/…` instead of
+[**Bonus tip**][symlinks]: Open your projects via `/var/home/…` instead of
 `/home/…` to avoid symlink bugs.
 
 [code]: https://flathub.org/apps/details/com.visualstudio.code
