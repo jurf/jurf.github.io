@@ -21,13 +21,17 @@ On a regular Fedora system, launching `sshd` with `systemctl` would trigger `ssh
 ⬢[user@toolbox ~]$ sudo /usr/libexec/openssh/sshd-keygen ed25519
 ```
 
-Inside `/etc/ssh/sshd_config`, ensure these options are set:
+Inside `/etc/ssh/sshd_config`, ensure these options are set (assuming you are running Fedora 33 inside):
 
 ```text
-Port 2222                 # Prevent conflicts with other SSH servers
+# For VSCode
+Port 2233                 # Prevent conflicts with other SSH servers
 ListenAddress localhost   # Don’t allow remote connections
 PermitEmptyPasswords yes  # Containers lack passwords by default
+PermitUserEnvironment yes # Allow setting DISPLAY for remote connections
 ```
+
+I like including the Fedora version in the container in the port so that I can have multiple versions at the same time and don’t have to remove lines in `~/.ssh/known_hosts` on container upgrades.
 
 NB: Due to container limitations, interactive sessions [won’t work][source].
 
@@ -36,12 +40,17 @@ Exit the toolbox. You can now run the server with a `toolbox run sudo /usr/sbin/
 Add this to your `~/.ssh/config`:
 
 ```text
-Host toolbox
+Host toolbox-33
     HostName localhost
-    Port 2222
+    Port 2233
 ```
 
-Inside VS Code, install the ‘[Remote – SSH][remote]’ extension, initialise a connection and pick ‘toolbox’ as the host, and enjoy.
+And this to `~/.ssh/environment` (this allows to starts Xorg apps from VSCode):
+```text
+DISPLAY=:0
+```
+
+Inside VS Code, install the ‘[Remote – SSH][remote]’ extension, initialise a connection and pick ‘toolbox-33’ as the host, and enjoy.
 
 [**Bonus tip**][symlinks]: Open your projects via `/var/home/…` instead of
 `/home/…` to avoid symlink bugs.
