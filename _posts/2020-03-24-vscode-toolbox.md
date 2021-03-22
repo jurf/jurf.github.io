@@ -24,7 +24,7 @@ On a regular Fedora system, launching `sshd` with `systemctl` would trigger `ssh
 Inside `/etc/ssh/sshd_config`, ensure these options are set (assuming you are running Fedora 33 inside):
 
 ```text
-# For VSCode
+# For VS Code
 Port 2233                 # Prevent conflicts with other SSH servers
 ListenAddress localhost   # Don’t allow remote connections
 PermitEmptyPasswords yes  # Containers lack passwords by default
@@ -45,7 +45,7 @@ Host toolbox-33
     Port 2233
 ```
 
-And this to `~/.ssh/environment` (this allows to starts Xorg apps from VSCode):
+And this to `~/.ssh/environment` (this allows to starts Xorg apps from VS Code):
 ```text
 DISPLAY=:0
 ```
