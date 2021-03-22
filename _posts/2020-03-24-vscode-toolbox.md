@@ -35,7 +35,7 @@ I like including the Fedora version in the container in the port so that I can h
 
 NB: Due to container limitations, interactive sessions [won’t work][source].
 
-Exit the toolbox. You can now run the server with a `toolbox run sudo /usr/sbin/sshd`. You can add this into your `.bashrc` if you want it to run automatically.
+Exit the toolbox. You can now run the server with a `toolbox run sudo /usr/sbin/sshd`. You can add this into your `.bash_profile` if you want it to run automatically.
 
 Add this to your `~/.ssh/config`:
 
