@@ -17,7 +17,7 @@ Since VSCode is very extensible, the exact details of your workflow may differ. 
 
 You can stop here and already get several good use-cases -- for example, the way this workflow clicked into the way I write blog posts was an unexpected but welcome bonus.
 
-I cannot comment on the usage with LaTeX, but I have heard good things about the [LaTeX Workshop][vscode-latex] extension.
+I cannot comment on the usage with LaTeX, but I have heard good things about the [LaTeX Workshop][vscode-latex] extension (the numbers speak for themselves).
 
 ConTeXt support in VSCode is finicky, but so is ConTeXt support everywhere else, so it is good enough. I use the [ConTeXt Syntax][vscode-context] with custom build tasks and problem matchers, but that is the subject of a future blog post.
 
