@@ -19,7 +19,7 @@ You can stop here and already get several good use-cases -- for example, the way
 
 I cannot comment on the usage with LaTeX, but I have heard good things about the [LaTeX Workshop][vscode-latex] extension (the numbers speak for themselves).
 
-ConTeXt support in VSCode is finicky, but so is ConTeXt support everywhere else, so it is good enough. I use the [ConTeXt Syntax][vscode-context] with custom build tasks and problem matchers, but that is the subject of a future blog post.
+ConTeXt support in VSCode is finicky, but so is ConTeXt support everywhere else, so it is good enough. I use the [ConTeXt Syntax][vscode-context] extension with custom build tasks and problem matchers, but that is the subject of a future blog post.
 
 To integrate the markdown you produced into your TeX document, you will have to dive into the [documentation][tex-markdown-docs] of the TeX markdown package, as its feature set is quite extensive. It has support for probably everything you will need, like citations, footnotes, figures, and you can also enable hybrid mode to mix in TeX syntax, such as math. Big shoutout to (our very own) Vít Novotný, as his work does most of the heavy lifting in this setup.
 
