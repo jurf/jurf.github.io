@@ -2,6 +2,7 @@
 layout: post
 title: GNOME doesn’t suck, you’re just using it wrong
 hidden: true
+published: false
 ---
 
 I know, click-bait title, but I couldn’t resist.

@@ -2,6 +2,7 @@
 layout: post
 title: Scribus Nightly & Development are now available as Flatpaks
 hidden: true
+published: false
 ---
 
 **Update:** Scribus is now available on [Flathub][7]; the nightlies are
