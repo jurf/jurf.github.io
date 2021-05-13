@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello… world
+hidden: true
 ---
 
 Well, this is my very first blog post. I’ll probably write here time to time,
