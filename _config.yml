@@ -4,16 +4,12 @@ description: On life and/with tech
 url:         "https://jurf.github.io"
 
 # Personal info
-author:
-  name: Juraj Fiala
-  email: jurajfiala+github@pm.me
+author: Juraj Fiala
+email:  jurajfiala+github@pm.me
 
 # Other accounts
-minima:
-  social_links:
-    twitter: juraj_fiala
-    github:  jurf
-
+twitter_username: juraj_fiala
+github_username:  jurf
 disqus:
   shortname:      doctorjellyface # Cannot be changed
 
