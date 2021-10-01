@@ -53,7 +53,7 @@ DISPLAY=:0
 
 As I became tired of running all these commands on every container installation or upgrade, I created [this script][script] to automate the process.
 
-Inside VS Code, install the ‘[Remote – SSH][remote]’ extension, initialise a connection and pick ‘toolbox-32’ as the host, and enjoy.
+Inside VS Code, install the ‘[Remote – SSH][remote]’ extension, initialise a connection and pick ‘toolbox-34’ as the host, and enjoy.
 
 [**Bonus tip**][symlinks]: Open your projects via `/var/home/…` instead of
 `/home/…` to avoid symlink bugs.
