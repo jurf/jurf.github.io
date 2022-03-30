@@ -59,7 +59,7 @@ Due to this fact, I got interested in trackballs. I considered the Logitech M575
 
 I slightly impulsed-bought the MX Ergo when I found a listing for it for around 60€ on a local second-hand market.
 
-It was the better choice, albeit more expensive, in the long term. I semi-regularly use the customisable tilting, but usually on the higher setting, which is important for me to be able to do with the mouse alone as I move around with it a lot.
+It was the better choice, albeit more expensive, in the long term. I semi-regularly use the customisable tilting, but usually on the higher setting. But since the higher tilt is basically vital for me, I am glad for this feature.
 
 I became a huge proponent of trackballs.
 
