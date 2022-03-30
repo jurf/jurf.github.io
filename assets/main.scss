@@ -41,7 +41,15 @@ pre, code {
 .carrousel img {
     max-height: 400px;
     max-width: 300px;
+}
+
+.caption-image {
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
     text-align: center;
+    font-style: italic;
 }
 
 /* Fix code not having a space in lists */

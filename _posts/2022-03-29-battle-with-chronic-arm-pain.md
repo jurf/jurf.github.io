@@ -83,9 +83,11 @@ My first choice was the M720 Triathlon, which had the functionality I needed but
 
 I borrowed an MX Master 2S from a friend, and I liked it a lot -- it just about fit my hands, but it was lower than I had hoped. I did get my hands on an MX Master 3, and it seemed much higher, so when I found a listing for it for 45€, I bought it right away.
 
-![](/assets/img/battle/logitech-heights.jpg)
+<p class="caption-image" markdown=1>
+    ![](/assets/img/battle/logitech-heights.jpg)
 
-_Left to right -- M720 Triathlon, MX Master 2, MX Master 3_
+    Left to right -- M720 Triathlon, MX Master 2S, MX Master 3. While the difference between the 2S and 3 is barely noticable, the top of the 3 is sharper, which pushes the whole hand up and decreases pronation
+</p>
 
 It has been a part of my daily driver set for 4 months now. I am not entirely satisfied with the scroll wheel, which is too heavy for me and has a muddy feel due to the magnets. However, while I like the mechanical qualities of the scroll wheel on the 2S, it is too light to be practically used in free-scroll mode and I do prefer the silence of the 3.
 
@@ -117,13 +119,19 @@ I rarely supplement them with the Trust Verto, which I plan to return in the nea
 
 My pain has stabilised, but it is not perfect. I regularly get finger RSIs and carpal tunnel pain, which brings me to the second part of this article.
 
-![](/assets/img/battle/angles.jpg)
+<p class="caption-image" markdown=1>
+    ![](/assets/img/battle/angles.jpg)
 
-_MX Master 3, MX Ergo, Trust Verto. While the first two are quite high, they do not reduce the stress on the carpal tunnel enough for me_
+    MX Master 3, MX Ergo, Trust Verto. While the first two are quite high, they do not reduce the stress on the carpal tunnel enough for me
+</p>
 
-![](/assets/img/battle/angles-ergo-stand.jpg)
 
-_Same as above, but with a 3D-printed stand for the Ergo, which helps the situation a bit_
+<p class="caption-image" markdown=1>
+    ![](/assets/img/battle/angles-ergo-stand.jpg)
+
+    Same as above, but with a 3D-printed stand for the Ergo, which helps the situation a bit
+</p>
+
 
 # Keyboards
 
