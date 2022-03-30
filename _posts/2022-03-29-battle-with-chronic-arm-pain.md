@@ -119,11 +119,11 @@ My pain has stabilised, but it is not perfect. I regularly get finger RSIs and c
 
 ![](/assets/img/battle/angles.jpg)
 
-_MX Master 3, MX Ergo, Trust Verto_
+_MX Master 3, MX Ergo, Trust Verto. While the first two are quite high, they do not reduce the stress on the carpal tunnel enough for me_
 
 ![](/assets/img/battle/angles-ergo-stand.jpg)
 
-_Same as above, but with a 3D-printed stand for the Ergo_
+_Same as above, but with a 3D-printed stand for the Ergo, which helps the situation a bit_
 
 # Keyboards
 
