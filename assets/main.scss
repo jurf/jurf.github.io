@@ -30,6 +30,20 @@ pre, code {
     background-color: #efefef;
 }
 
+.carrousel {
+    display: flex;
+    overflow-x: scroll;
+    padding: 10px; align-items:
+    center; max-height: 500px;
+    gap: 10px;
+}
+
+.carrousel img {
+    max-height: 400px;
+    max-width: 300px;
+    text-align: center;
+}
+
 /* Fix code not having a space in lists */
 ul, ol {
     pre, code {
@@ -48,10 +62,18 @@ ul, ol {
         }
     }
 
+    h1 {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-top: 5rem;
+        margin-bottom: 1rem;
+        // font-family: "Miriam Libre";
+        letter-spacing: 0px;
+        line-height: 1.3;
+    }
     /* Nicer subheadings */
     h2, h3, h4, h5, h6 {
-        margin-bottom: 15px;
-        margin-top: 30px;
+        margin-top: 3rem;
         font-size: inherit;
         font-variant: all-small-caps; letter-spacing: 0.08em;
     }
