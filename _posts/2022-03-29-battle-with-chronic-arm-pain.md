@@ -7,7 +7,7 @@ For the last 3½ years, I have been experiencing various chronic arm pain.
 
 My body has been giving me hints that it was not taking the load of work at the computer I threw at it well for about two years before then, but I did not listen.
 
-The first pain that became so severe that it prevented me from working was from the carpal tunnel after intensive graphic design sessions, guitar playing, programming, and working with the computer in general.
+The first pain that became so severe that it prevented me from working was from the carpal tunnel after intensive graphic design sessions, guitar playing, programming, and working with digital devices in general.
 
 After unsuccessful, uneducated attempts (wrist rests, wrist wraps), I was forced into a more direct approach.
 
