@@ -142,6 +142,14 @@ It functions exactly as you would think a cheap membrane keyboard would. The exp
 
 However, it was a good introduction to split keyboards. It took me a week or two to get used to it, and I will probably never return to a traditional keyboard.
 
+## Other options
+
+I have considered the Microsoft Sculpt Ergonomic keyboard, but it cost almost twice as much as the C-Tech, even second-hand, which seemed too much for an experiment.
+
+I reconsidered it since the C-Tech is really wide, and I would prefer my mouse closer, but I have seen reviews, and it seems the keyboard has its quirks -- like the large dongle and the Fn switch -- and I was unpersuaded it was worth the money.
+
+I am not aware of any other split keyboards in my market.
+
 ## Custom mechanical keyboards
 
 Last week, I got introduced to the world of custom keyboards. I have not yet chosen which keyboard to build, I am torn between several split keyboard designs, but that is a story for the future.
