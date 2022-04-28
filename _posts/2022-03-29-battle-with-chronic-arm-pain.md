@@ -1,5 +1,5 @@
 ---
-title: "My ongoing battle with chronic arm pain: A review of ergonomic products"
+title: "My battle with chronic arm pain: A review of ergonomic products"
 layout: post
 ---
 
@@ -86,10 +86,10 @@ I borrowed an MX Master 2S from a friend, and I liked it a lot -- it just about 
 <p class="caption-image" markdown=1>
     ![](/assets/img/battle/logitech-heights.jpg)
 
-    Left to right -- M720 Triathlon, MX Master 2S, MX Master 3. While the difference between the 2S and 3 is barely noticable, the top of the 3 is sharper, which pushes the whole hand up and decreases pronation
+    Left to right -- M720 Triathlon, MX Master 2S, MX Master 3. While the difference between the 2S and 3 is barely noticeable, the top of the 3 is sharper, which pushes the whole hand up and decreases pronation
 </p>
 
-It has been a part of my daily driver set for 4 months now. I am not entirely satisfied with the scroll wheel, which is too heavy for me and has a muddy feel due to the magnets. However, while I like the mechanical qualities of the scroll wheel on the 2S, it is too light to be practically used in free-scroll mode and I do prefer the silence of the 3.
+It has been a part of my daily driver set for 4 months now. I am not entirely satisfied with the scroll wheel, which is too heavy for me and has a muddy feel due to the magnets. However, while I like the mechanical qualities of the scroll wheel on the 2S, it is too light to be practically used in free-scroll mode, and I do prefer the silence of the 3.
 
 ## Wacom Intuos CTL-480
 
@@ -105,7 +105,7 @@ Another big disadvantage is that a pen tablet is not very portable, so I usually
 
 Of course, I have considered the Logitech MX Vertical, but the price is so high and its features so standard that unless I get it at most at the third of its price, I will never buy it.
 
-I have considered the Microsoft Sculpt Ergonomic mouse but ~~I do not want to support Microsoft~~ I am worried that the mouse will be too small for my hands.
+I have considered the Microsoft Sculpt Ergonomic mouse, but ~~I do not want to support Microsoft~~ I am worried that the mouse will be too small for my hands.
 
 Kensington trackpads look awesome but are way beyond my current budget. Maybe sometime.
 
@@ -113,7 +113,7 @@ Kensington trackpads look awesome but are way beyond my current budget. Maybe so
 
 The single biggest takeaway is that **no mouse is a panacea**. I currently mostly use the MX Ergo and the MX Master 3; I have even created a travelling case so that they would not get damaged on the frequent hauls to the campus and back. I switch between them as often as every two hours, depending on the signals they send me.
 
-An unforeseen consequence of trackballs is that they are perfect for travelling, especially on trains. You do not need little extra space to get the advantages of a mouse workflow -- unless you mind the rather bulky weight of the metal plate.
+An unforeseen consequence of trackballs is that they are perfect for travelling, especially on trains. You do need little extra space to get the advantages of a mouse workflow -- unless you mind the rather bulky weight of the metal plate.
 
 I rarely supplement them with the Trust Verto, which I plan to return in the near future for repairs, and the Intuous.
 
@@ -164,7 +164,7 @@ Last week, I got introduced to the world of custom keyboards. I have not yet cho
 
 # Bottom line
 
-If you are starting to experience pain, I strongly suggest you start working on mitigating it as soon as possible. I am aware the products in this article are can be pretty costly, it is not the only thing you can do.
+If you are starting to experience pain, I strongly suggest you start working on mitigating it as soon as possible. I am aware the products in this article can be pretty costly; it is not the only thing you can do.
 
 Changing my devices was only a factor. Changing my habits was an equally large one. E.g., I was influenced a lot by Cal Newport's [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/), which helped me cut down my smartphone habits, which in turn reduced stress on my wrists. I started rigorously applying the Pomodoro technique to enable my muscles to rest between work sessions. I started exercising, which helped my wrist pain as well.
 
