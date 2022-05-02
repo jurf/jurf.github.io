@@ -1,5 +1,5 @@
 ---
-title: "My battle with chronic arm pain: A review of ergonomic products"
+title: "My battle with chronic forearm pain: A review of ergonomic devices"
 layout: post
 ---
 
