@@ -30,3 +30,7 @@ plugins:
 
 exclude:
   - README.md
+
+text:
+  post:
+    minute_read:    'minute read'
