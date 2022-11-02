@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Integrating Fedora Toolbox into VS Code (with the help of SSH)
+last_modified_at: 2021-10-02
 ---
 
 [VS Code][code] has become my favourite editor as of late, however, using it out of a Flatpak environment on Fedora Silverblue is limited. You can [configure][flatpak-spawn] the built-in terminal to run in Toolbox, but that doesn’t help if extensions need tooling installed.

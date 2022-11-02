@@ -1,7 +1,7 @@
 ---
 title: "Budget ergonomics, part 1: Mice"
 layout: post
-modified_date: 2022-11-02
+last_modified_at: 2022-11-02
 redirect_from: /2022/03/29/battle-with-chronic-arm-pain/
 
 series: ergonomics

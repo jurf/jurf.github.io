@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Speed up a LUKS-encrypted Fedora Silverblue by enabling TRIM
+modified_date: 2022-05-02
 ---
 
 My system has been going sluggish lately. After getting suspicious, I decided
