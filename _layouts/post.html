@@ -42,6 +42,7 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+    {%- include post_series.html position='bottom'-%}
   </div>
 
   {%- if site.disqus.shortname -%}
