@@ -3,15 +3,23 @@ title: "Budget ergonomics, part 1: Mice"
 layout: post
 modified_date: 2022-11-02
 redirect_from: /2022/03/29/battle-with-chronic-arm-pain/
+
+series: ergonomics
+series_title: Mice
+series_note: Of course, mice are only part of the story.
 ---
 
 For the last 3½ years, I have been experiencing various chronic arm pain.
 
 My body has been giving me hints that it was not taking the load of work at the computer I threw at it well for about two years before then, but I did not listen.
 
-The first pain that became so severe that it prevented me from working was (probably?) from the carpal tunnel after intensive graphic design sessions, programming, guitar playing, and working with digital devices in general.
+The first pain that became so severe that it prevented me from working was from the carpal tunnel[^carpal] after intensive graphic design sessions, programming, guitar playing, and working with digital devices in general.
 
-After unsuccessful naîve attempts (wrist rests, wrist wraps), I was forced into a more direct approach.
+[^carpal]: Probably? I am still learning how to categorise the pain. E.g. I only just learned that a lot of my pain comes from ulnar deviation, which mice don’t cause.
+
+After unsuccessful naîve attempts (wrist rests, wrist wraps[^wrist-rest]), I was forced into a more direct approach.
+
+[^wrist-rest]: At the time, I did not yet know _palm_ rest good, _wrist_ rest bad.
 
 In this series, I aim to give a rundown of what I tried and what ultimately stuck, hopefully helping you spend your time and money more effectively battling your pain.
 
@@ -115,7 +123,7 @@ Currently in the mail. Am very excited, as a whole-hand operated trackball is so
 
 ## Other options
 
-Of course, I have considered the Logitech MX Vertical, but the price is so high and its features so standard that unless I get it at most at a third of its price, I will never buy it.
+Of course, I have considered the Logitech MX Vertical, but the price is so high and its features so standard that unless I get it at most at a third of its price, I will never buy it. I would really like a thumb rest, however.
 
 I have considered the Microsoft Sculpt Ergonomic mouse, but ~~I do not want to support Microsoft~~ I am worried that the mouse would be too small for my hands.
 
@@ -133,7 +141,6 @@ I rarely supplement them with the Trust Verto, which sits on my desk.
     MX Master 3, MX Ergo, Trust Verto. While the first two are quite high, they do not reduce the stress on the carpal tunnel enough for me
 </p>
 
-
 <p class="caption-image" markdown=1>
     [![](/assets/img/battle/angles-ergo-stand-min.jpg)](/assets/img/battle/angles-ergo-stand.jpg)
 
@@ -141,11 +148,3 @@ I rarely supplement them with the Trust Verto, which sits on my desk.
 </p>
 
 My pain has stabilised, but it is not perfect. If I am not careful, it quickly comes back. I was recently stuck with a regular mouse, and within 30 minutes, the pain became paralysing.
-
-- - -
-
-Of course, mice are only part of the story. This article is part 1 in a 3-part series.
-
-* Part 1 -- Mice
-* _Part 2 -- Workplace and lifestyle (coming soon)_
-* _Part 3 -- Custom split mechanical keyboard (coming later)_
