@@ -22,7 +22,7 @@ https://github.com/josefadamcik/josefadamcik.cz/blob/master/_includes/post_serie
     {{ page.series_note }}
   </p>
   {%- endif -%}
-    This post is <strong>part {{ idx }}</strong> in a {{ count }}-part series.</p>
+    This post is <strong>part {{ idx }}</strong> in a <strong>{{ count }}-part</strong> series.</p>
   <ul>{%- assign count = '0' -%}
     {%- for post in site.posts reversed %}
     {%- if post.series == page.series -%}
