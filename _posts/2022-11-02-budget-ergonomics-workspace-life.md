@@ -1,13 +1,13 @@
 ---
-title: "Budget ergonomics, part 2: Workplace & lifestyle"
+title: "Budget ergonomics, part 2: Workplace & lifestyle"
 layout: post
 
 series: ergonomics
-series_title: Workplace & lifestyle
+series_title: Workplace & lifestyle
 series_note: There is one last thing to tackle – a better keyboard. But that is a story for another time.
 ---
 
-In [part 1](2022-03-29-budget-ergonomics-mice.md), I gave my reviews for different mice I tried to alleviate my forearm pain. However, ergonomics is a much broader topic than just mice, even though they caused the most pain.
+In [part 1](2022-03-29-budget-ergonomics-mice.md), I gave my reviews for different mice I tried to alleviate my forearm pain. However, ergonomics is a much broader topic than just mice, even though they caused the most pain for me.
 
 ## C-Tech Ergo KB-113E
 
@@ -20,9 +20,9 @@ In [part 1](2022-03-29-budget-ergonomics-mice.md), I gave my reviews for differe
 
 Also known as the [Nulea Ergonomic Keyboard](https://nulea.com/collections/ergonomic/products/nulea-rt01-2-4g-wireless-ergonomic-split-keyboard-with-pillowed-wrist-rest). I bought this keyboard for 20€; it was by far the cheapest ergonomic keyboard I could find. It is also by far the ugliest keyboard I have ever seen.
 
-It functions exactly as you would think a cheap membrane keyboard would. The experience is standard at best. It gets the job done, but after 6 months, the palm rests have now been permanently moulded into the shape of my hands, the ABS keycaps are shiny, and the apostrophe key either does not work or produces two apostrophes. The tenting is quite small, and the keyboard itself is very large, so it is uncomfortable to use a mouse with it.
+It functions exactly as you would think a cheap membrane keyboard would. The experience is standard at best. It gets the job done, but after 6 months, the palm rests have now been permanently moulded into the shape of my hands, the ABS keycaps are shiny, and the apostrophe key either does not work or produces two apostrophes. The tenting is quite low, and the keyboard itself is very large, so it is uncomfortable to use a mouse with it.
 
-The actuation force is also quite big, around 65g from my (amateur) measurements. My pinkies tend to hurt from prolonged use.
+The actuation force is also quite high, around 65g from my (amateur) measurements. My pinkies tend to hurt from prolonged use.
 
 However, it was a good introduction to split keyboards. It took me a week or two to get used to it, and I will probably never return to a traditional keyboard.
 
