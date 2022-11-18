@@ -34,9 +34,9 @@ Disclaimer:
 The first products I tried were from Connect IT, which had a long-term marketing campaign focusing on ergonomics.
 
 <p class="carrousel" markdown=1>
-    [![](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/_thumbsSmall/01.JPG)](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/01.JPG)
-    [![](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/_thumbsSmall/02.JPG)](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/02.JPG)
-    [![](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/_thumbsSmall/04.JPG)](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/04.JPG)
+    [![Verti ErgoMax top view](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/_thumbsSmall/01.JPG)](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/01.JPG)
+    [![Verti ErgoMax side view](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/_thumbsSmall/02.JPG)](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/02.JPG)
+    [![Verti ErgoMax front view](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/_thumbsSmall/04.JPG)](https://connectit-europe.com/ConnectIT/media/content/import-product-images/17071/04.JPG)
 </p>
 
 I bought the [Verti ErgoMax](https://connectit-europe.com/produkty/mysi-a-podlozky/bezdratove/connect-it-for-health-ergonomicka-vertikalni-mys,) -- since it looked like it would fit my large hands well -- and a mouse pad with a wrist wrest, which they marketed for use with their vertical mice for heightened ergonomics.
@@ -48,9 +48,9 @@ The mouse was okay, but nothing stellar. The shape was mostly good at looking we
 ## Trust Verto
 
 <p class="carrousel" markdown=1>
-    [![](/assets/img/battle/trust-1-min.jpg)](/assets/img/battle/trust-1.jpg)
-    [![](/assets/img/battle/trust-2-min.jpg)](/assets/img/battle/trust-2.jpg)
-    [![](/assets/img/battle/trust-3-min.jpg)](/assets/img/battle/trust-3.jpg)
+    [![Trust Verto top view](/assets/img/battle/trust-1-min.jpg)](/assets/img/battle/trust-1.jpg)
+    [![Trust Verto side view](/assets/img/battle/trust-2-min.jpg)](/assets/img/battle/trust-2.jpg)
+    [![Trust Verto front view](/assets/img/battle/trust-3-min.jpg)](/assets/img/battle/trust-3.jpg)
 </p>
 
 I have heard good things about the [Anker Vertical mouse](https://us.anker.com/products/a7852). It's almost impossible to get it in Europe, but I later found out that the Trust Verto was the exact same mouse, down to the renders they used to market it.
@@ -66,9 +66,9 @@ After almost a year of usage, I could no longer use a vertical mouse. Around the
 ## Logitech MX Ergo
 
 <p class="carrousel" markdown=1>
-    [![](/assets/img/battle/ergo-1-min.jpg)](/assets/img/battle/ergo-1.jpg)
-    [![](/assets/img/battle/ergo-2-min.jpg)](/assets/img/battle/ergo-2.jpg)
-    [![](/assets/img/battle/ergo-3-min.jpg)](/assets/img/battle/ergo-3.jpg)
+    [![Logitech MX Ergo top view](/assets/img/battle/ergo-1-min.jpg)](/assets/img/battle/ergo-1.jpg)
+    [![Logitech MX Ergo back view](/assets/img/battle/ergo-2-min.jpg)](/assets/img/battle/ergo-2.jpg)
+    [![Logitech MX Ergo front view](/assets/img/battle/ergo-3-min.jpg)](/assets/img/battle/ergo-3.jpg)
 </p>
 
 Due to this fact, I got interested in trackballs. I considered the Logitech M575 and the Logitech MX Ergo, the only sub-100€ options I could find.
@@ -86,9 +86,9 @@ This started around the time I signed up for two courses in graphic design after
 ## Logitech MX Master 3
 
 <p class="carrousel" markdown=1>
-    [![](/assets/img/battle/master-1-min.jpg)](/assets/img/battle/master-1.jpg)
-    [![](/assets/img/battle/master-2-min.jpg)](/assets/img/battle/master-2.jpg)
-    [![](/assets/img/battle/master-3-min.jpg)](/assets/img/battle/master-3.jpg)
+    [![Logitech MX Master 3 top view](/assets/img/battle/master-1-min.jpg)](/assets/img/battle/master-1.jpg)
+    [![Logitech MX Master 3 side view](/assets/img/battle/master-2-min.jpg)](/assets/img/battle/master-2.jpg)
+    [![Logitech MX Master 3 back view](/assets/img/battle/master-3-min.jpg)](/assets/img/battle/master-3.jpg)
 </p>
 
 Around this time, I also started experiencing pain in my index finger due to the high amount of scrolling I had to do while working on web design.
@@ -99,11 +99,13 @@ My first choice was the M720 Triathlon, which had the functionality I needed but
 
 I borrowed an MX Master 2S from a friend, and I liked it a lot -- it just about fit my hands, but it was lower than I had hoped. I got my hands on an MX Master 3, which seemed much higher, so when I found a listing for it for 45€, I bought it right away.
 
-<p class="caption-image" markdown=1>
-    [![](/assets/img/battle/logitech-heights-min.jpg)](/assets/img/battle/logitech-heights.jpg)
+<figure markdown=1>
+  [![M720 Triathlon, MX Master 2S & 3 back view comparison](/assets/img/battle/logitech-heights-min.jpg)](/assets/img/battle/logitech-heights.jpg)
 
-    Left to right -- M720 Triathlon, MX Master 2S & 3. While the difference between the 2S and 3 is barely noticeable, the top of the 3 is sharper, which pushes the whole hand up, decreasing pronation and providing better palm support
-</p>
+  <figcaption>
+    Left to right – M720 Triathlon, MX Master 2S & 3. While the difference between the 2S and 3 is barely noticeable, the top of the 3 is sharper, which pushes the whole hand up, decreasing pronation and providing better palm support
+  </figcaption>
+</figure>
 
 It has been a part of my daily driver set for 4 months now. I am not entirely satisfied with the scroll wheel, which is too heavy for me and has a muddy feel due to the magnets. However, while I like the mechanical qualities of the scroll wheel on the 2S, it is too light to be practically used in free-scroll mode, and I do prefer the silence of the 3.
 
@@ -135,16 +137,20 @@ An unforeseen consequence of thumb-operated trackballs is that they are perfect 
 
 I rarely supplement them with the Trust Verto, which sits on my desk.
 
-<p class="caption-image" markdown=1>
-    [![](/assets/img/battle/angles-min.jpg)](/assets/img/battle/angles.jpg)
+<figure markdown=1>
+  [![MX Master 3, MX Ergo and Trust Verto tilt comparison](/assets/img/battle/angles-min.jpg)](/assets/img/battle/angles.jpg)
 
+  <figcaption>
     MX Master 3, MX Ergo, Trust Verto. While the first two are quite high, they do not reduce the stress on the carpal tunnel enough for me
-</p>
+  </figcaption>
+</figure>
 
-<p class="caption-image" markdown=1>
-    [![](/assets/img/battle/angles-ergo-stand-min.jpg)](/assets/img/battle/angles-ergo-stand.jpg)
+<figure markdown=1>
+  [![MX Master 3, MX Ergo (with plus version stand) and Trust Verto tilt comparison](/assets/img/battle/angles-ergo-stand-min.jpg)](/assets/img/battle/angles-ergo-stand.jpg)
 
+  <figcaption>
     Same as above, but with a 3D-printed stand for the Ergo, which helps the situation a bit
-</p>
+  </figcaption>
+</figure>
 
 My pain has stabilised, but it is not perfect. If I am not careful, it quickly comes back. I was recently stuck with a regular mouse, and within 30 minutes, the pain became paralysing.

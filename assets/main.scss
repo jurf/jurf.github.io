@@ -77,13 +77,15 @@ pre, code {
     max-width: 18rem;
 }
 
-.caption-image {
+figure {
     margin: 2rem 0;
-    display: flex;
-    flex-direction: column;
-    gap: 1em;
-    text-align: center;
-    font-style: italic;
+
+    figcaption {
+        font-size: 0.9rem;
+        text-align: right;
+        font-style: italic;
+        padding-left: 1rem;
+    }
 }
 
 /* Fix code not having a space in lists */
