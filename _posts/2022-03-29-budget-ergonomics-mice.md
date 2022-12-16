@@ -17,7 +17,7 @@ The first pain that became so severe that it prevented me from working was from 
 
 [^carpal]: Probably? I am still learning how to categorise the pain. E.g. I only just learned that a lot of my pain comes from ulnar deviation, which mice don’t cause.
 
-After unsuccessful naîve attempts (wrist rests, wrist wraps[^wrist-rest]), I was forced into a more direct approach.
+After unsuccessful naïve attempts (wrist rests, wrist wraps[^wrist-rest]), I was forced into a more direct approach.
 
 [^wrist-rest]: At the time, I did not yet know _palm_ rest good, _wrist_ rest bad.
 
