@@ -132,7 +132,7 @@ I got this pen tablet as a gift from a good friend when she upgraded to a higher
 
 I tried several times to use it as a supplement for a mouse. My experience is mixed.
 
-Using the pen is relatively slow, especially while typing, and can be inaccurate. The driver support on Linux is fine, but not much more. There is no scrolling support, and I did not have time to try to file a bug report for it. I have mainly used this option during transition phases.
+Using the pen is relatively slow, especially while typing, and can be inaccurate. The driver support on Linux is fine, but not much more. There is no scrolling support, and I did not have time to try to file a bug report for it. I have mainly used this option during transitional phases.
 
 Another big disadvantage is that a pen tablet is not very portable, so I usually only use it at my desk.
 
