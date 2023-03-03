@@ -60,7 +60,7 @@ And now that you have an accurate, neutral image, why not try [accurate, neutral
 [lagom-contrast]: http://www.lagom.nl/lcd-test/contrast.php
 [lagom-gamma]: http://www.lagom.nl/lcd-test/gamma_calibration.php
 [paper-callibration]: https://youtube.com/watch?v=avJTz1JhkR4&t=70
-[d65]: average midday light
+[d65]: https://en.wikipedia.org/wiki/Illuminant_D65
 [eizo-test]: https://www.eizo.be/monitor-test/
 [overdrive]: https://en.wikipedia.org/wiki/Response_Time_Compensation
 [overdrive-artifacts]: https://blurbusters.com/faq/lcd-overdrive-artifacts
