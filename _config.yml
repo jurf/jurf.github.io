@@ -1,27 +1,28 @@
 # Site settings
-title:       Notes
+title: Notes
 description: On things things I hope someone else will find useful too.
-url:         "https://jurf.github.io"
+url: "https://jurf.github.io"
 
 # Personal info
 author: Juraj Fiala
-email:  jurajfiala+github@pm.me
+email: jurajfiala+github@pm.me
 
 # Other accounts
-twitter_username: juraj_fiala
-github_username:  jurf
+github_username: jurf
 disqus:
-  shortname:      doctorjellyface # Cannot be changed
+  shortname: doctorjellyface # Cannot be changed :(
 
 # Build settings
 #paginate: 5
-timezone:  Europe/Bratislava
+timezone: Europe/Bratislava
 permalink: pretty
-theme:     minima
+theme: minima
 # markdown:  CommonMarkGhPages
 commonmark:
-  options: ["SMART", "STRIKETHROUGH_DOUBLE_TILDE", "UNSAFE"]
-  extensions: ["strikethrough", "autolink"]
+  # https://github.com/gjtorikian/commonmarker#options
+  options: ["smart", "unsafe"]
+  # https://github.com/gjtorikian/commonmarker#extension-options
+  extensions: []
 
 plugins:
   - jekyll-feed
@@ -34,4 +35,4 @@ exclude:
 
 text:
   post:
-    minute_read:    'minute read'
+    minute_read: "minute read"
