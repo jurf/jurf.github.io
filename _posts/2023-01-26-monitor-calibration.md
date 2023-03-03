@@ -1,6 +1,7 @@
 ---
 title: "How to get the most out of your monitor without any equipment"
 layout: post
+last_modified_at: 2023-03-03
 ---
 
 For years I have been trying to get a truly neutral image out of my monitors, which is rather difficult due to the sheer amount of [desirable nonsense][desirable-nonsense] monitor firmware tends to include. I also do not own a colourimeter, without which objective improvements were hard to obtain.
@@ -13,15 +14,17 @@ So here is my current boiled-down ritual I go through with any monitor I have to
 
    If you can, use DisplayPort (preferred -- open standard, desktop-focused), HDMI or DVI‑D. If your monitor does not have a digital port, prefer thicker and shorter cables.
 
+   If you use HDMI, **use the full range of RGB**. I was once working on a monitor that should have been good but had absolutely no detail in the blacks. I found out that it was set to [limited RGB][limited-rgb], which is a mode used mainly by televisions that limits the detail in shadows and highlights. If your input and output settings are mismatched, you will drastically reduce your image quality. For desktop, you always want full.
+
 2. **Switch the picture mode to 'user'** (or at least 'standard'). A mode that lets you set up as much as possible is preferred, as 'standard' modes sometimes tend to have unadjustable settings, such as tint compensations. Disable any dynamic contrast or colour enhancements. Sometimes it's good to start with a reset, depending on the previous owner.
 
 3. **Remove software sharpening**. The [Lagom LCD test pages][lagom-sharpness] have a great test image for this. On analogue, you will probably never get a _truly_ neutral image (the setting is actually there for compensating sharpness loss). On digital, you should be able to get a completely flat grey image that you do not have to squint hard at for it to be completely uniform. Neutral typically means '50'[^luck].
 
-4. **Set [gamma][gamma] to sRGB** (and neutralise contrast changes). Contrast affects the gamma, but AFAIK, there is no clear test for it. Try the [Lagom contrast test page][lagom-contrast] for a quick adjustment. Keep in mind that some monitors are just plain bad and are not capable of differentiating colours at the extremities. If the numerical middle does not yield a neutral image, go for neutral-ish.
+4. **Set [gamma][gamma] to sRGB** (and neutralise contrast changes). The contrast setting affects the gamma, but AFAIK, there is no clear test for it. Try the [Lagom contrast test page][lagom-contrast] for a quick adjustment. Keep in mind that some monitors are just plain bad and are not capable of differentiating colours at the extremities. If the numerical middle does not yield a neutral image, go for neutral-ish.
 
    Gamma is better, however. There is a [separate test][lagom-gamma] on Lagom, but I prefer the sharpness test; it just seems a little easier to see. To properly reproduce sRGB images (i.e. images on the web), the gamma should be set to roughly 2.2. If your monitor has an sRGB setting, use that, otherwise, use whatever produces the best results.
 
-   Some monitors do not have a setting equivalent to sRGB. If that is the case, you can emulate it in the OS. You can either use the Windows display calibration tool (you can leave the rest of the settings at default) or your drivers. I am not aware of any simple way of doing this in Linux; if you do, please contact me.
+   Some monitors do not have a setting equivalent to sRGB. If that is the case, you can emulate it in the OS. You can either use the Windows display calibration tool (you can leave the rest of the settings at default) or your drivers. I am not aware of any simple way of doing this in Linux; if you do, please contact me. However, I did not have good experience with this.
 
 5. **Remove colour casts**. Most monitors I have come across have some sort of colour tint when completely neutral. Manufacturers compensate for this with default settings. However, unfortunately, these default settings are not necessarily neutral. They can be either warmer or colder by default, moreover, LCDs tend to yellow over time, so if your monitor is not new, these default settings (and also any sRGB profiles if present) are basically useless.
 
@@ -44,7 +47,7 @@ And now that you have an accurate, neutral image, why not try [accurate, neutral
 ---
 
 [^vga]: I was really surprised at how big the difference in sharpness was when I switched.
-[^luck]: If you are lucky. Sometimes neutral is '5' or '0', but in the end, you will have to use your own judgment.
+[^luck]: If you are lucky. Sometimes neutral is '5' or '0', but in the end, you will have to use your own judgment. On my old Samsung monitor, the neutral for contrast and sharpness is somewhere around 60.
 [^colours]:
     Some argue that this should only be done if you _need_ this for your work (i.e. you do photography, graphic design or video editing), but for casual use cases, you should use the full range of colours, so that movies and games are more vibrant.
 
@@ -54,6 +57,7 @@ And now that you have an accurate, neutral image, why not try [accurate, neutral
 
 [desirable-nonsense]: https://www.youtube.com/watch?v=B_8HDPBfvHI
 [signal-degradation]: https://youtu.be/f38sotYHqtA?t=33
+[limited-rgb]: https://www.benq.com/en-us/knowledge-center/knowledge/full-rgb-vs-limited-rgb-is-there-a-difference.html
 [lagom-sharpness]: http://www.lagom.nl/lcd-test/sharpness.php
 [gamma]: https://en.wikipedia.org/wiki/Gamma_correction
 [lagom-contrast]: http://www.lagom.nl/lcd-test/contrast.php
