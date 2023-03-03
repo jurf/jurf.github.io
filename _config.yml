@@ -17,12 +17,12 @@ disqus:
 timezone: Europe/Bratislava
 permalink: pretty
 theme: minima
-# markdown:  CommonMarkGhPages
+markdown: CommonMarkGhPages
 commonmark:
   # https://github.com/gjtorikian/commonmarker#options
-  options: ["smart", "unsafe"]
+  options: ["smart", "unsafe", "footnotes", "default"]
   # https://github.com/gjtorikian/commonmarker#extension-options
-  extensions: []
+  extensions: ["strikethrough"]
 
 plugins:
   - jekyll-feed

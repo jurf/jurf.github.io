@@ -11,12 +11,17 @@ In [part 1](2022-03-29-budget-ergonomics-mice.md), I gave my reviews for differe
 
 ## C-Tech Ergo KB-113E
 
-<p class="carrousel" markdown=1>
-    [![C-Tech Ergo KB-113E top view](/assets/img/battle/ctech-0-min.jpg)](/assets/img/battle/ctech-0.jpg)
-    [![C-Tech Ergo KB-113E tenting close-up](/assets/img/battle/ctech-1-min.jpg)](/assets/img/battle/ctech-1.jpg)
-    [![C-Tech Ergo KB-113E desk view](/assets/img/battle/ctech-2-min.jpg)](/assets/img/battle/ctech-2.jpg)
-    [![C-Tech Ergo KB-113E tenting](/assets/img/battle/ctech-3-min.jpg)](/assets/img/battle/ctech-3.jpg)
-</p>
+<div class="carrousel">
+
+[![C-Tech Ergo KB-113E top view](/assets/img/battle/ctech-0-min.jpg)](/assets/img/battle/ctech-0.jpg)
+
+[![C-Tech Ergo KB-113E tenting close-up](/assets/img/battle/ctech-1-min.jpg)](/assets/img/battle/ctech-1.jpg)
+
+[![C-Tech Ergo KB-113E desk view](/assets/img/battle/ctech-2-min.jpg)](/assets/img/battle/ctech-2.jpg)
+
+[![C-Tech Ergo KB-113E tenting](/assets/img/battle/ctech-3-min.jpg)](/assets/img/battle/ctech-3.jpg)
+
+</div>
 
 Also known as the [Nulea Ergonomic Keyboard](https://nulea.com/collections/ergonomic/products/nulea-rt01-2-4g-wireless-ergonomic-split-keyboard-with-pillowed-wrist-rest). I bought this keyboard for 20€; it was by far the cheapest ergonomic keyboard I could find. It is also by far the ugliest keyboard I have ever seen.
 

@@ -7,33 +7,33 @@ For years I have been trying to get a truly neutral image out of my monitors, wh
 
 So here is my current boiled-down ritual I go through with any monitor I have to work with, in roughly the order of importance.
 
-1. **Get a [monitor stand]({% post_url 2022-11-02-budget-ergonomics-workspace-life %}#stell-sos-1010-monitor-stand)** or at least a stack of books. There is no use in tweaking the monitor if you can't use it like a human.
+0. **Get a [monitor stand]({% post_url 2022-11-02-budget-ergonomics-workspace-life %}#stell-sos-1010-monitor-stand)** or at least a stack of books. There is no use in tweaking the monitor if you can't use it like a human.
 
-2. **Get a digital cable**. With old monitors and an abundance of VGA cables (like I had), one can be tempted to just use analogue. However, analogue cables suffer from [signal degradation][signal-degradation][^vga]. Digital cables also do not need image adjustment to work.
+1. **Get a digital cable**. With old monitors and an abundance of VGA cables (like I had), one can be tempted to just use analogue. However, analogue cables suffer from [signal degradation][signal-degradation][^vga]. Digital cables also do not need image adjustment to work.
 
    If you can, use DisplayPort (preferred -- open standard, desktop-focused), HDMI or DVI‑D. If your monitor does not have a digital port, prefer thicker and shorter cables.
 
-3. **Switch the picture mode to 'user'** (or at least 'standard'). A mode that lets you set up as much as possible is preferred, as 'standard' modes sometimes tend to have unadjustable settings, such as tint compensations. Disable any dynamic contrast or colour enhancements. Sometimes it's good to start with a reset, depending on the previous owner.
+2. **Switch the picture mode to 'user'** (or at least 'standard'). A mode that lets you set up as much as possible is preferred, as 'standard' modes sometimes tend to have unadjustable settings, such as tint compensations. Disable any dynamic contrast or colour enhancements. Sometimes it's good to start with a reset, depending on the previous owner.
 
-4. **Remove software sharpening**. The [Lagom LCD test pages][lagom-sharpness] have a great test image for this. On analogue, you will probably never get a _truly_ neutral image (the setting is actually there for compensating sharpness loss). On digital, you should be able to get a completely flat grey image that you do not have to squint hard at for it to be completely uniform. Neutral typically means '50'[^luck].
+3. **Remove software sharpening**. The [Lagom LCD test pages][lagom-sharpness] have a great test image for this. On analogue, you will probably never get a _truly_ neutral image (the setting is actually there for compensating sharpness loss). On digital, you should be able to get a completely flat grey image that you do not have to squint hard at for it to be completely uniform. Neutral typically means '50'[^luck].
 
-5. **Set [gamma][gamma] to sRGB** (and neutralise contrast changes). Contrast affects the gamma, but AFAIK, there is no clear test for it. Try the [Lagom contrast test page][lagom-contrast] for a quick adjustment. Keep in mind that some monitors are just plain bad and are not capable of differentiating colours at the extremities. If the numerical middle does not yield a neutral image, go for neutral-ish.
+4. **Set [gamma][gamma] to sRGB** (and neutralise contrast changes). Contrast affects the gamma, but AFAIK, there is no clear test for it. Try the [Lagom contrast test page][lagom-contrast] for a quick adjustment. Keep in mind that some monitors are just plain bad and are not capable of differentiating colours at the extremities. If the numerical middle does not yield a neutral image, go for neutral-ish.
 
    Gamma is better, however. There is a [separate test][lagom-gamma] on Lagom, but I prefer the sharpness test; it just seems a little easier to see. To properly reproduce sRGB images (i.e. images on the web), the gamma should be set to roughly 2.2. If your monitor has an sRGB setting, use that, otherwise, use whatever produces the best results.
 
    Some monitors do not have a setting equivalent to sRGB. If that is the case, you can emulate it in the OS. You can either use the Windows display calibration tool (you can leave the rest of the settings at default) or your drivers. I am not aware of any simple way of doing this in Linux; if you do, please contact me.
 
-6. **Remove colour casts**. Most monitors I have come across have some sort of colour tint when completely neutral. Manufacturers compensate for this with default settings. However, unfortunately, these default settings are not necessarily neutral. They can be either warmer or colder by default, moreover, LCDs tend to yellow over time, so if your monitor is not new, these default settings (and also any sRGB profiles if present) are basically useless.
+5. **Remove colour casts**. Most monitors I have come across have some sort of colour tint when completely neutral. Manufacturers compensate for this with default settings. However, unfortunately, these default settings are not necessarily neutral. They can be either warmer or colder by default, moreover, LCDs tend to yellow over time, so if your monitor is not new, these default settings (and also any sRGB profiles if present) are basically useless.
 
    Fortunately, you can calibrate this pretty well yourself with just a [sheet of white paper][paper-callibration]. Since we are trying to recreate the D65 white point which was created to best represent [average midday light][d65], let some sunlight in (just not directly on your screen and paper), open a completely white screen (i.e. the Eizo [defective pixel][eizo-test] test) and try to match the paper colour by **lowering** the individual RGB channels[^colours].
 
-7. **Tweak overdrive**. Overdrive (or [response time compensation][overdrive]) is a technique for improving the speed at which LCD pixels change colour by initially increasing voltage, which improves the response times of screens (sometimes by quite a bit). You'll see it under many different names, as manufacturers tried to avoid paying royalty fees to the patent holder in the past.
+6. **Tweak overdrive**. Overdrive (or [response time compensation][overdrive]) is a technique for improving the speed at which LCD pixels change colour by initially increasing voltage, which improves the response times of screens (sometimes by quite a bit). You'll see it under many different names, as manufacturers tried to avoid paying royalty fees to the patent holder in the past.
 
    It works similarly to how you would put a pan on high heat at the start to make it reach the target temperature more quickly. If you are not careful, you will miss the target temperature and go higher than you want. Similarly, in screens this creates [artifacts][overdrive-artifacts] ('coronas'), so you may want to tweak the parameters to reach a balance. You can use the [ghosting test][ghosting-test] on Blur Busters.
 
    Some monitors include a light strobing mode (or they insert black frames) which lowers blurs down to a minimum, but I would probably recommend against this unless you do competitive gaming, as flickering lights (commonly experienced as PWM for controlling brightness on screens) have been [linked][pwm] to eye strain and headaches. If you have a flicker-free backlight, this negates its advantages.
 
-8. **Turn on the night light feature and auto-dark mode** in your OS. You need good eyes to see your properly-setup monitor! Night filters are standard nowadays. For auto dark modes, there is [Windows Auto Dark Mode][win-auto-dark] or the [Night Theme Switcher][night-theme-switcher] extension for GNOME.
+7. **Turn on the night light feature and auto-dark mode** in your OS. You need good eyes to see your properly-setup monitor! Night filters are standard nowadays. For auto dark modes, there is [Windows Auto Dark Mode][win-auto-dark] or the [Night Theme Switcher][night-theme-switcher] extension for GNOME.
 
 I hope you found this guide useful.
 
