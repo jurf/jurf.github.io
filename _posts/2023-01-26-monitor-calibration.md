@@ -24,7 +24,7 @@ So here is my current boiled-down ritual I go through with any monitor I have to
 
    Gamma is better, however. There is a [separate test][lagom-gamma] on Lagom, but I prefer the sharpness test; it just seems a little easier to see. To properly reproduce sRGB images (i.e. images on the web), the gamma should be set to roughly 2.2. If your monitor has an sRGB setting, use that, otherwise, use whatever produces the best results.
 
-   Some monitors do not have a setting equivalent to sRGB. If that is the case, you can emulate it in the OS. You can either use the Windows display calibration tool (you can leave the rest of the settings at default) or your drivers. I am not aware of any simple way of doing this in Linux; if you do, please contact me. However, I did not have good experience with this.
+   Some monitors do not have a setting equivalent to sRGB. If that is the case, you can emulate it in the OS. You can either use the Windows display calibration tool (you can leave the rest of the settings at default) or your drivers.[^linux-gamma] However, I did not have good experience with this.
 
 5. **Remove colour casts**. Most monitors I have come across have some sort of colour tint when completely neutral. Manufacturers compensate for this with default settings. However, unfortunately, these default settings are not necessarily neutral. They can be either warmer or colder by default, moreover, LCDs tend to yellow over time, so if your monitor is not new, these default settings (and also any sRGB profiles if present) are basically useless.
 
@@ -48,6 +48,7 @@ And now that you have an accurate, neutral image, why not try [accurate, neutral
 
 [^vga]: I was really surprised at how big the difference in sharpness was when I switched.
 [^luck]: If you are lucky. Sometimes neutral is '5' or '0', but in the end, you will have to use your own judgment. On my old Samsung monitor, the neutral for contrast and sharpness is somewhere around 60.
+[^linux-gamma]: I am not aware of any simple way of doing this in Linux; if you do, please contact me.
 [^colours]:
     Some argue that this should only be done if you _need_ this for your work (i.e. you do photography, graphic design or video editing), but for casual use cases, you should use the full range of colours, so that movies and games are more vibrant.
 
