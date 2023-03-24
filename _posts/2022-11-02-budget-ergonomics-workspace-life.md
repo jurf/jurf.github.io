@@ -7,7 +7,7 @@ series_title: Workplace & lifestyle
 series_note: There is one last thing to tackle – a better keyboard. But that is a story for another time.
 ---
 
-In [part 1](2022-03-29-budget-ergonomics-mice.md), I gave my reviews for different mice I tried to alleviate my forearm pain. However, ergonomics is a much broader topic than just mice, even though they caused the most pain for me.
+In [part 1]({% post_url 2022-03-29-budget-ergonomics-mice %}), I gave my reviews for different mice I tried to alleviate my forearm pain. However, ergonomics is a much broader topic than just mice, even though they caused the most pain for me.
 
 ## C-Tech Ergo KB-113E
 
