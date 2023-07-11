@@ -1,9 +1,8 @@
 ---
-title: "My split keyboard layout: A 60% Miryoku"
+title: "My split keyboard layout: A 60% Miryoku"
 layout: post
 
 series: ergonomics
-series_title: "My split keyboard layout: A 60% Miryoku"
 series_suffix: " on <strong>budget ergonomics</strong>"
 series_note: Coming up – how to build a split keyboard on a budget, and how to make do without one if you are on an even tighter one.
 ---
@@ -26,7 +25,7 @@ The inside is a basically unmodified Miryoku (don't these tiny layouts look cute
 
 Overall, I really like the layout. Here are my condensed thoughts on it.
 
-Pro's:
+Pros:
 
 - Home row mods are awesome. They take some getting used to, but it is worth it. _chef's kiss_ so comfy
 - The thumb cluster is great, I never realised how much I use these keys (especially backspace). They also play well well with alt- and ctrl-tabbing, even though it takes a week or two to start tapping them in the correct order
@@ -36,7 +35,7 @@ Pro's:
 - Easy to learn gradually
 - Manages to pack in _all_ the keys, except for the numpad
 
-Con's:
+Cons:
 
 - The 200ms mod-tap delay is there. You stop feeling it a bit after a while but it still feels better without it
 - It's especially annoying to use with mouse-heavy programs, like graphic design or 3D modelling, due to the 200ms delay on all modifiers. A lot of the time I still click to soon (as it's not a problem with key combinations). The tap layer helps, but there is not enough space on a 40% board for the modifiers. I will probably design a custom full-60% layer for that
