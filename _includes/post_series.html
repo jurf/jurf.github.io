@@ -22,12 +22,12 @@ https://github.com/josefadamcik/josefadamcik.cz/blob/master/_includes/post_serie
     {{ page.series_note }}
   </p>
   {%- endif -%}
-  <p>This post is <strong>part {{ idx }}</strong> in a <strong>{{ count }}-part</strong> series.</p>
+  <p>This post is <strong>part {{ idx }}</strong> in a <strong>{{ count }}-part</strong> series{{ page.series_suffix }}.</p>
   <ul>{%- assign count = '0' -%}
     {%- for post in site.posts reversed %}
     {%- if post.series == page.series -%}
       {%- capture count -%}{{ count | plus: '1' }}{%- endcapture -%}
-      <li>Part {{ count }} – <span>{%- if page.url == post.url -%}{{post.series_title}}{%- else -%}<a href="{{post.url}}">{{post.series_title}}</a>{%- endif -%}</span>
+      <li>Part {{ count }} – <span>{%- if page.url == post.url -%}{{post.title}}{%- else -%}<a href="{{post.url}}">{{post.title}}</a>{%- endif -%}</span>
       </li>
     {%- endif -%}
     {%- endfor -%}

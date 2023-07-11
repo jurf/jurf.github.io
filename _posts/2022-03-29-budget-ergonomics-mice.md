@@ -1,11 +1,11 @@
 ---
-title: "Budget ergonomics, part 1: Mice"
+title: "A collection of reviews of ergonomic mice"
 layout: post
 last_modified_at: 2022-11-02
 redirect_from: /2022/03/29/battle-with-chronic-arm-pain/
 
 series: ergonomics
-series_title: Mice
+series_suffix: " on <strong>budget ergonomics</strong>"
 series_note: Of course, mice are only part of the story.
 ---
 
