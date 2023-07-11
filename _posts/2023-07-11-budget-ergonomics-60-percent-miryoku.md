@@ -7,7 +7,9 @@ series_suffix: " on <strong>budget ergonomics</strong>"
 series_note: Coming up – how to build a split keyboard on a budget, and how to make do without one if you are on an even tighter one.
 ---
 
-I have a soft spot for 40% keyboard layouts. However, my language has 46 letters, compared to English's 26, so having them only on layers quite drastically reduces your typing speed. So I am stuck with a 60% board... but why not have the best of both worlds?
+I have a soft spot for 40% keyboard layouts. However, Slovak uses 46[^digraphs] letters, compared to English's 26, so having them only on layers quite drastically reduces your typing speed. Thus I am stuck with a 60% board... but why not have the best of both worlds?
+
+[^digraphs]: ...of which 3 are digraphs (ch, dz, dž), so I guess actually only 43, but how would you call them then? [Grapheme clusters](http://utf8everywhere.org/#characters)?
 
 ## The layout
 
@@ -63,7 +65,7 @@ These were the interesting ones. Miryoku already includes an elegant and easy-to
 
 I returned the left column to its original place. The right column then went on the opposite side; this took some getting used to, but I quickly adapted and found it comfortable.
 
-The only change I made was to swap the backtick (a semicolon on the Slovak layout) for a [caron dead key (`ˇ`)][caron], a common diacritic here.
+The only change I made was to swap the backtick (a semicolon on the Slovak layout) for a [caron dead key (`ˇ`)][caron], which is needed for some of the letters that do not fit, such as ď, or capital letters.
 
 ## Bonus keys
 
