@@ -7,7 +7,7 @@ Since KMonad does not have a Fedora package, I was reluctant to try it out. Howe
 
 ## Installation
 
-I used the [`stack`][stack] for this, but you might prefer to use [Docker][docker] instead.
+I used [`stack`][stack] for this, but you might prefer to use [Docker][docker] instead.
 
 ```bash
 git clone git@github.com:kmonad/kmonad.git
