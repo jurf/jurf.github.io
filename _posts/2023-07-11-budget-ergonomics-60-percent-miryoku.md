@@ -29,10 +29,10 @@ Overall, I really like the layout. Here are my condensed thoughts on it.
 
 Pros:
 
-- Home row mods are awesome. They take some getting used to, but it is worth it. _chef's kiss_ so comfy
-- The thumb cluster is great, I never realised how much I use these keys (especially backspace). They also play well well with alt- and ctrl-tabbing, even though it takes a week or two to start tapping them in the correct order
+- Home row mods are awesome. They take some getting used to, but it is worth it. _chef's kiss_ So comfy
+- The thumb cluster is great, I never realised how much I use these keys (especially backspace). They also play well with alt- and ctrl-tabbing, even though it takes a week or two to start tapping them in the correct order
 - Also, their dual layer-switching function is really neat; it makes them very powerful
-- Colemak-DH will probably need a separate blog post, but any optimised layout is better than QWERTY so worth it
+- Colemak-DH will probably need a separate blog post, but any optimised layout is better than QWERTY, so worth it
 - The pinky button layer makes copy-pasting independent from the layout, which is great
 - Easy to learn gradually
 - Manages to pack in _all_ the keys, except for the numpad
