@@ -22,7 +22,7 @@ commonmark:
   # https://github.com/gjtorikian/commonmarker#options
   options: ["smart", "unsafe", "footnotes", "default"]
   # https://github.com/gjtorikian/commonmarker#extension-options
-  extensions: ["strikethrough"]
+  extensions: ["strikethrough", "table"]
 
 plugins:
   - jekyll-feed
