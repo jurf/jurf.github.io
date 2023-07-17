@@ -129,3 +129,25 @@ ul, ol {
     h4 { font-weight: 400; }
     h5, h6 { font-weight: 300; }
 }
+
+.footnotes {
+    border-top: 1px solid $text-color;
+    margin-top: 5rem;
+    padding-top: 1.5rem;
+}
+
+.footer-heading {
+    color: $text-color;
+    font-size: 1rem;
+    margin-bottom: 0rem;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+}

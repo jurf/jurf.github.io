@@ -44,8 +44,6 @@ Of course, if you are a professional and need truly accurate colour reproduction
 
 And now that you have an accurate, neutral image, why not try [accurate, neutral sound][autoeq] as well?
 
----
-
 [^vga]: I was really surprised at how big the difference in sharpness was when I switched.
 [^luck]: If you are lucky. Sometimes neutral is '5' or '0', but in the end, you will have to use your own judgment. On my old Samsung monitor, the neutral for contrast and sharpness is somewhere around 60.
 [^linux-gamma]: I am not aware of any simple way of doing this in Linux; if you do, please contact me.
