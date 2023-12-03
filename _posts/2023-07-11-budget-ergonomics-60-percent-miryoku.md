@@ -40,10 +40,19 @@ Pros:
 Cons:
 
 - The 200ms mod-tap delay is there. You stop feeling it a bit after a while but it still feels better without it
-- It's especially annoying to use with mouse-heavy programs, like graphic design or 3D modelling, due to the 200ms delay on all modifiers. A lot of the time I still click to soon (as it's not a problem with key combinations). The tap layer helps, but there is not enough space on a 40% board for the modifiers. I will probably design a custom full-60% layer for that
-- The layer-locking seems half-baked, most of the time you miss at least on key from other layers (e.g. on the number layer you do not have the `/` key)
-- This is a double-edged sword, but since Miryoku is so efficient, there is no space for custom characters, (e.g. I would really like typographic unicode symbols somewhere. Maybe the top row? Or a tri-layer?)
+- It's especially annoying to use with mouse-heavy programs, like graphic design or 3D modelling, due to the 200ms delay on all modifiers. A lot of the time I still click too soon (as it's not a problem with key combinations).
+  - Even if decreasing the timeout (I settled on 160ms), it still means you have to hold them for longer, which increases the rate of fatigue
+  - The tap layer helps, but there is not enough space on a 40% board for the modifiers. I will probably design a custom full-60% layer for that
 - Also see the [bonus keys](#bonus-keys) section for some workarounds I had to implement
+
+Double-edged swords:
+
+- It's heavily based on the American layout
+  - Pro: Easy to learn
+  - Cons: Very noticeable on the number and symbol layers, which are not optimised at all. For example, layer-locking the number layer cannot be used with a calculator app or for data input (missing `/`, `Enter`, `Backspace` etc.), and the symbol layer does not have all sympols, and they are oddly spaced (like the parantheses, or the common curly brackets)
+- It's very space efficient
+  - Pro: Great for small boards and minimising hand movement
+  - Cons: There is no space for custom characters, (e.g. I would really like typographic unicode symbols somewhere. I currently use the outer rows and coulumns on layers but that breaks their semantics a bit). Also uncommon keys like Insert or Pause are a bit too easy to hit
 
 But overall, the best layout I tried so far. I do recommend reading the whole [reference manual][reference] to learn it more quickly.
 
@@ -76,7 +85,7 @@ I just flung whatever I found personally useful there.
 ![The bonus keys](/assets/img/sofle-layout/bonus-keys.png)
 
 - The bottom left key is for returning from the tap/gaming layer, as Miryoku [does not include a key][tap-exit] for that. This one is just hard to hit by accident
-- The next key is the backtick, as GNOME uses it for the `` Alt+` `` same-app window switching shortcut. This is the single most annoying downside of switching to Miryoku, as I cannot figure out an elegant one-handed solution to it; this is my best workaround
+- ~~The next key is the backtick, as GNOME uses it for the `` Alt+` `` same-app window switching shortcut. This is the single most annoying downside of switching to Miryoku, as I cannot figure out an elegant one-handed solution to it; this is my best workaround~~ I found it's much better to remap `Alt+Space` to switching app Windows
 - I use the analogous keys on the right side for arrows, as I am often lazy to use both hands for rewinding a video
 - The encoders are my favourite part.
   - The left one is `PageUp` and `PageDown` by default, for quickly scrolling long documents. When pressed, it switches to edit mode, where it scrubs edit history instead (which is a bit awkward in Miryoku with one hand). Both of these are incredibly useful, especially one-handed
