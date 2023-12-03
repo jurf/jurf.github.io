@@ -1,5 +1,5 @@
 ---
-title: "Naivná analýza Colemak-DH v slovenčine (a iných ergonomických rozložení klávesnice)"
+title: "Naivná analýza Colemak-DH v slovenčine (vs. Qwertz/y, Dvorak, Colemak a Workman)"
 layout: post
 ---
 
