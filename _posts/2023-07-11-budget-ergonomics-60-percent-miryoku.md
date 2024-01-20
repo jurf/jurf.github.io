@@ -1,6 +1,7 @@
 ---
 title: "My split keyboard layout: A 60% Miryoku"
 layout: post
+last_modified_at: 2024-01-19
 
 series: ergonomics
 series_suffix: " on <strong>budget ergonomics</strong>"
