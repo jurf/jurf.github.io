@@ -12,7 +12,7 @@ It wasn’t.
 ## How to check and enable
 
 This only applies if you have a LUKS-encrypted root partition. To see if it
-is correctly set up, [run][archwiki][^1]
+is correctly set up, [run][archwiki]
 
 ```sh
 $ sudo dmsetup table
@@ -28,7 +28,7 @@ set. If not, [run][bug]
 $ rpm-ostree kargs --append=rd.luks.options=discard
 ```
 
-This applies the ‘discards’ flag at boot time, enabling it for all partitions
+This applies the ‘discards’ flag[^1] at boot time, enabling it for all partitions
 on the root drive. (If you only want this for some, use
 `rd.luks.options=<LUKS partition ID>=discard`). Restart and run
 `fstrim.service`. On my machine, it was a difference between light and day.
