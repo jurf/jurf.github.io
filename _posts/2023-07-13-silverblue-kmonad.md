@@ -1,11 +1,20 @@
 ---
 title: "Installing KMonad on Fedora Silverblue"
 layout: post
+last_modified_at: 2024-01-22
 ---
 
 Since KMonad does not have a Fedora package, I was reluctant to try it out. However, it is much simpler than I thought, although it does have a few quirks, so I decided to write a short guide.
 
 ## Installation
+
+### Binary
+
+The easiest[^binaries] way is to download the binary from the [releases][releases] page, mark it as executable and put it into `~/.local/bin`.
+
+[^binaries]: When first writing this guide, I somehow completely missed this option. Sorry for that!
+
+### From source
 
 I used [`stack`][stack] for this, but you might prefer to use [Docker][docker] instead.
 
@@ -56,6 +65,7 @@ If you want an easier way to control it, I wrote an [extension][extension] for i
 [<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" alt="Get it on GNOME Extensions" height="100">][extension]
 
 
+[releases]: https://github.com/kmonad/kmonad/releases/
 [stack]: https://github.com/kmonad/kmonad/blob/master/doc/installation.md#using-stack
 [docker]: https://github.com/kmonad/kmonad/blob/master/doc/installation.md#using-docker
 [permissions]: https://github.com/kmonad/kmonad/blob/master/doc/faq.md#q-how-do-i-get-uinput-permissions
