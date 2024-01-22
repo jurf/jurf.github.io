@@ -1,11 +1,11 @@
 ---
 title: "My split keyboard layout: A 60% Miryoku"
 layout: post
-last_modified_at: 2024-01-19
+last_modified_at: 2024-01-22
+redirect_from: /2023/07/11/budget-ergonomics-60-percent-miryoku/
 
-series: ergonomics
-series_suffix: " on <strong>budget ergonomics</strong>"
-series_note: Coming up – how to build a split keyboard on a budget, and how to make do without one if you are on an even tighter one.
+series: layouts
+series_suffix: " on <strong>keyboard layouts</strong>"
 ---
 
 I have a soft spot for 40% keyboard layouts. However, Slovak uses 46[^digraphs] letters, compared to English's 26, so having them only on layers quite drastically reduces your typing speed. Thus I am stuck with a 60% board... but why not have the best of both worlds?
@@ -102,10 +102,11 @@ I hope you found some of this information useful for designing your own layout.
 
 ## Sample implementation
 
-You can find the newest version of my keymap on my [QMK fork](https://github.com/jurf/qmk_firmware/tree/master/keyboards/sofle/keymaps/jurf). Since the time of writing, I had made several changes. The core design principle is the same but it has many quality-of-life improvements. You can find the newest visualisation on my [Figma](https://www.figma.com/file/Ty5GlR07527IqVRcMPnfTQ/Sofle-Layout?type=design&node-id=0%3A1&mode=design&t=qU6RuR0Qy9GTgTNQ-1)!
+You can find the newest version of my keymap on my [QMK fork](https://github.com/jurf/qmk_firmware/tree/master/keyboards/sofle/keymaps/jurf). Since the time of writing, I had made several changes. The core design principle is the same but it has many quality-of-life improvements. You can find the newest visualisation on my [Figma][figma]!
 
 [miryoku]: https://github.com/manna-harbour/miryoku
 [principles]: https://github.com/manna-harbour/miryoku/tree/master/docs/reference#general-principles
 [reference]: https://github.com/manna-harbour/miryoku/tree/master/docs/reference
 [caron]: https://en.wikipedia.org/wiki/Caron
 [tap-exit]: https://github.com/manna-harbour/miryoku/tree/master/docs/reference#additional-features
+[figma]: https://www.figma.com/file/Ty5GlR07527IqVRcMPnfTQ/P%C3%B4vab-Layout?type=design&node-id=0%3A1&mode=design&t=L4o97CRDY0nQGUmc-1
