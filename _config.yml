@@ -7,11 +7,6 @@ url: "https://jurf.github.io"
 author: Juraj Fiala
 email: jurf.rl14w@aleeas.com
 
-# Other accounts
-github_username: jurf
-disqus:
-  shortname: doctorjellyface # Cannot be changed :(
-
 # Build settings
 #paginate: 5
 timezone: Europe/Bratislava
