@@ -17,7 +17,7 @@ The first pain that became so severe that it prevented me from working was from 
 
 [^carpal]: Probably? I am still learning how to categorise the pain. E.g. I only just learned that a lot of my pain comes from ulnar deviation, which mice don’t cause.
 
-After unsuccessful naïve attempts (wrist rests, wrist wraps[^wrist-rest]), I was forced into a more direct approach.
+After unsuccessful naïve attempts (wrist rests[^wrist-rest], wrist wraps), I was forced into a more direct approach.
 
 [^wrist-rest]: At the time, I did not yet know _palm_ rest good, _wrist_ rest bad.
 
@@ -26,7 +26,7 @@ In this series, I aim to give a rundown of what I tried and what ultimately stuc
 Disclaimer:
 
 - I have been to an orthopedist. Advice -- reduce load, vary positions. Overall, not too helpful.
-- I have big hands -- slightly below 3½ credit cards.
+- I have big hands
 - I live in central Europe (Slovakia/Czechia), which limits my product choices.
 
 ## Connect IT era
