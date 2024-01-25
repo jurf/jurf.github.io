@@ -32,7 +32,7 @@ Using the Unicode input option would be just slightly annoying when typing (due 
 
 So I explored using international layouts. My first thought was the US International layout, but the version in Linux did not have the deadkeys I needed.
 
-I then stumbled upon the [EurKEY][eurkey] layout. It was cross-platform and supported many of the keys I needed. It also supported adding Shift to make capital versions of the keys, unlike the Slovak layout! That meant no need for overrides.
+I then stumbled upon the [EurKEY][eurkey] layout. It was cross-platform, pre-installed in Linux and supported many of the keys I needed. It also supported adding Shift to make capital versions of the keys, unlike the Slovak layout! That meant no need for overrides.
 
 However, about half of the keys needed to be typed with a dead key. It has a smaller delay and flash than the Unicode option, but it turned out a bit tricky to implement correctly.
 
