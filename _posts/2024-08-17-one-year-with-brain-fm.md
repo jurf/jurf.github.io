@@ -84,7 +84,9 @@ Another thing I miss is an offline mode. It buffers quite far ahead, but if you 
 
 But the biggest gripe I have that troubles me deeply is that this tool that greatly increases my quality of life, ability to focus, and makes me a more capable person overall is… subscription-based. The fact that this company could go under **tomorrow** and leave me with **nothing** is something I have to solve.
 
-I have no interest in aiding piracy and will gladly pay money for this service for as long as it is available, but if I find a way to scrape the whole site I will do so in a heartbeat. I won't share the code or the results, but when Brain.fm inevitably disappears, as all services do, I will share that archive, as I do not want to live in a world that loses access to this tool. If anyone has tried to do this successfully, please email me.
+I have no interest in aiding piracy and will gladly pay money for this service for as long as it is available, but if I find a way to backup the whole site I will do so in a heartbeat. I won't share the code or the results, but when Brain.fm inevitably disappears, as all online services do, I will share that archive, as I do not want to live in a world that loses access to this tool. If anyone has tried to do this successfully, please [email me][email].
+
+[email]: mailto:jurf.rl14w@aleeas.com
 
 ## Should you get this
 
