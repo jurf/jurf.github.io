@@ -52,7 +52,7 @@ One year later, do I mind? Yes and no. There is definitely repetitiveness involv
 
 ![](/assets/img/brain-fm/activities.png)
 
-So, overall, do I wish the variability was higher? Yes, it's far from a dealbreaker.
+So, overall, do I wish the variability was higher? Yes, but it's far from a dealbreaker.
 
 ## Regarding "neural effects"
 
