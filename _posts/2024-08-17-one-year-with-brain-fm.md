@@ -8,7 +8,7 @@ _<p style="font-size: 1.414em">Repetitive and overpromising; don't you ever dare
 ![](/assets/img/brain-fm/streak.png)
 
 
-I have been using Brain.fm for 53 consecutive weeks, as it likes to remind me every time I open it. I have wanted to write this review since the first week, but I first wanted to be sure I arrived at something truly sustainable. I now have enough experience. 
+I have been using Brain.fm for 53 consecutive weeks, as it likes to remind me every time I open it. I have wanted to write this review since the first week, but I first wanted to be sure I arrived at something truly sustainable. I now feel I have enough experience. 
 
 ## Context
 
@@ -20,7 +20,7 @@ Another thing is that I am susceptible to noise. Any talking around me completel
 
 ## What I've tried
 
-One thing that I found really helped was music. It needs a particular type -- no vocals, not too lively but also not white noise, slightly rhythmic, and very long. The right music can change the mountain into a stroll, sometimes even pleasurable.
+One thing that I found really helped was music. It needs a particular type -- no vocals, not too lively but also not white noise, slightly rhythmic, and very long. The right music can change the mountain climb into a stroll, sometimes even pleasurable.
 
 Over time, I developed a small collection of music. Here are some of my favourites:
 
