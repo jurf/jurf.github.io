@@ -25,11 +25,19 @@ One thing that I found really helped was music. It needs a particular type -- no
 Over time, I developed a small collection of music. Here are some of my favourites:
 
 - Lo-fi whatever, I've heard it all
-- LotR, Narnia, and Harry Potter study playlists
-- Coding Mode on Spotify
-- Minecraft, WoW, Civilization VI soundtracks
+- [LotR][lotr-mix], Narnia, and Harry Potter study playlists
+- [Coding Mode][spotify-coding-mode] on Spotify
+- [This playlist][spotify-randy] by randy[^randy]
+- [Minecraft][minecraft-mix], WoW, Civilization VI soundtracks
 - ADHD relief/study music
 - Random jazz/piano/instrumental
+
+[lotr-mix]: https://www.youtube.com/watch?v=Gz8LFEf1MUQ
+[spotify-coding-mode]: https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=a2a41ed8a91c4cda
+[spotify-randy]: https://open.spotify.com/playlist/4pB5c5pquPCFlb8BSEf3Dj
+[minecraft-mix]: https://www.youtube.com/watch?v=Pa_s7ogtokM
+
+[^randy]: Who inevitably persuaded me to switch to Brain.fm, fun fact
 
 Also, fuck Ambient Worlds. They saturated the market, but all of their playlists have five songs on repeat.
 
