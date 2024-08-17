@@ -1,4 +1,7 @@
-# One year with Brain.fm
+---
+layout: post
+title: One year with Brain.fm
+---
 
 _<p style="font-size: 1.414em">Repetitive and overpromising; don't you ever dare take it away from me.</p>_
 
