@@ -39,7 +39,7 @@ Over time, I developed a small collection of music. Here are some of my favourit
 
 [^randy]: Who inevitably persuaded me to switch to Brain.fm, fun fact
 
-Also, fuck Ambient Worlds. They saturated the market, but all of their playlists have five songs on repeat.
+Also, f*ck Ambient Worlds. They saturated the market, but all of their playlists have five songs on repeat.
 
 However, this well of media eventually ran dry, and after several months, I heard everything I had to hear and did not find much more. That's when I stumbled on Brain.fm and decided to give it a go.
 
@@ -82,9 +82,11 @@ From the more technical side, the mobile app is very sluggish, being almost unus
 
 Another thing I miss is an offline mode. It buffers quite far ahead, but if you open it on a train with no phone signal, you are pretty much screwed until you manage to load at least something.
 
-But the biggest gripe I have that troubles me deeply is that this tool that greatly increases my quality of life, ability to focus, and makes me a more capable person overall is… subscription-based. The fact that this company could go under **tomorrow** and leave me with **nothing** is something I have to solve.
+But the biggest gripe I have that troubles me deeply is that this tool that greatly increases my quality of life, ability to focus, and makes me a more capable person overall is… subscription-based. The fact that this company could go under _tomorrow_ and leave me with _nothing_ is something I have to solve.
 
-I have no interest in aiding piracy and will gladly pay money for this service for as long as it is available, but if I find a way to backup the whole site I will do so in a heartbeat. I won't share the code or the results, but when Brain.fm inevitably disappears, as all online services do, I will share that archive, as I do not want to live in a world that loses access to this tool. If anyone has tried to do this successfully, please [email me][email].
+I have no interest in aiding piracy and will gladly pay money for this service for as long as it is available, but if I find a way to backup the whole site I will do so in a heartbeat. If anyone has tried to do this successfully, please [email me][email].
+
+I won't share the code or the results, but one day, Brain.fm, as all online services, will disappear. After that, who knows, you might find an archive here.
 
 [email]: mailto:jurf.rl14w@aleeas.com
 
