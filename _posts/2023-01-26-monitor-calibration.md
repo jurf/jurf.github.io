@@ -1,5 +1,5 @@
 ---
-title: "How to get the most out of your monitor without any equipment"
+title: "How to get the most out of your monitor without a colourimeter"
 layout: post
 last_modified_at: 2023-03-03
 ---
@@ -36,7 +36,7 @@ So here is my current boiled-down ritual I go through with any monitor I have to
 
    Some monitors include a light strobing mode (or they insert black frames) which lowers blurs down to a minimum, but I would probably recommend against this unless you do competitive gaming, as flickering lights (commonly experienced as PWM for controlling brightness on screens) have been [linked][pwm] to eye strain and headaches. If you have a flicker-free backlight, this negates its advantages.
 
-7. **Turn on the night light feature and auto-dark mode** in your OS. You need good eyes to see your properly-setup monitor! Night filters are standard nowadays. For auto dark modes, there is [Windows Auto Dark Mode][win-auto-dark] or the [Night Theme Switcher][night-theme-switcher] extension for GNOME.
+7. Bonus: **Turn on the night light feature and auto-dark mode** in your OS. You need good eyes to see your properly-setup monitor! Night filters are standard nowadays. For auto dark modes, there is [Windows Auto Dark Mode][win-auto-dark] or the [Night Theme Switcher][night-theme-switcher] extension for GNOME.
 
 I hope you found this guide useful.
 
@@ -45,8 +45,11 @@ Of course, if you are a professional and need truly accurate colour reproduction
 And now that you have an accurate, neutral image, why not try [accurate, neutral sound][autoeq] as well?
 
 [^vga]: I was really surprised at how big the difference in sharpness was when I switched.
+
 [^luck]: If you are lucky. Sometimes neutral is '5' or '0', but in the end, you will have to use your own judgment. On my old Samsung monitor, the neutral for contrast and sharpness is somewhere around 60.
+
 [^linux-gamma]: I am not aware of any simple way of doing this in Linux; if you do, please contact me.
+
 [^colours]:
     Some argue that this should only be done if you _need_ this for your work (i.e. you do photography, graphic design or video editing), but for casual use cases, you should use the full range of colours, so that movies and games are more vibrant.
 
