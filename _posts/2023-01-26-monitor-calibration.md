@@ -8,7 +8,7 @@ For years I have been trying to get a truly neutral image out of my monitors, wh
 
 So here is my current boiled-down ritual I go through with any monitor I have to work with, in roughly the order of importance.
 
-0. **Get a [monitor stand]({% post_url 2022-11-02-budget-ergonomics-workspace-life %}#stell-sos-1010-monitor-stand)** or at least a stack of books. There is no use in tweaking the monitor if you can't use it like a human.
+0. **Get a [monitor stand]({% post_url 2022-11-02-budget-ergonomics-workspace-life %}#stell-sos-1010-monitor-stand)** or at least a stack of books if the top of the screen is not level with your eyes. There is no use in tweaking the monitor if you can't use it like a human.
 
 1. **Get a digital cable**. With old monitors and an abundance of VGA cables (like I had), one can be tempted to just use analogue. However, analogue cables suffer from [signal degradation][signal-degradation][^vga]. Digital cables also do not need image adjustment to work.
 
