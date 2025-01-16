@@ -1,1 +1,2 @@
+Sitemap: https://jurf.github.io/sitemap.xml
 Sitemap: https://jurf.github.io/daap/sitemap.xml
