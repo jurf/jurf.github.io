@@ -1,6 +1,7 @@
 ---
 layout: post
 title: One year with Brain.fm
+last_modified_at: 2025-09-12
 ---
 
 <p class="perex">Repetitive and overpromising; don't you ever dare take it away from me.</p>
@@ -96,9 +97,12 @@ For me, the bottom line is that if you already listen to a lot of study/work pla
 
 If you are short on money, did you know they offer a 20% [student discount][student-discount]? They do not advertise it much, but it helped me pull the trigger when I had little money to spare.
 
-If you are looking for a way to hack your way to better productivity, your mileage may vary. I say, try it for 30 days (here's a [link][trial] for an extended 30-day free trial) and see.
+If you are looking for a way to hack your way to better productivity, your mileage may vary. I say, try it for 30 days (here's a [link][referral][^disclaimer] for an extended 30-day free trial) and see.
+
+[^disclaimer]: Disclaimer: This is a referral link and gives me one free month if you decide to buy it. This option did not exist when I originally wrote this review, and it did not influence it in any way. You can also use the old [non-referral link][trial] if this does not suit you
 
 
 [yt]: https://www.youtube.com/channel/UC45Wdr3wPy1qR2WLUCTsFKg
 [student-discount]: https://brainfm.helpscoutdocs.com/article/30-memberships-options
 [trial]: https://my.brain.fm/payment?extended_promo=30&utm_source=referafriend
+[referral]: https://www.brain.fm/refer?extended_promo=30&utm_source=referafriend&rid=2376b13090a84d440a50156872485d4569fcc9a189a23807c573db3f248c1d6a
