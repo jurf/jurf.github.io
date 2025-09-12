@@ -9,7 +9,9 @@ last_modified_at: 2025-09-12
 ![](/assets/img/brain-fm/streak.png)
 
 
-I have been using Brain.fm for 53 consecutive weeks, as it likes to remind me every time I open it. I have wanted to write this review since the first week, but I first wanted to be sure I arrived at something truly sustainable. I now feel I have enough experience. 
+I have been using Brain.fm for 53[^update] consecutive weeks, as it likes to remind me every time I open it. I have wanted to write this review since the first week, but I first wanted to be sure I arrived at something truly sustainable. I now feel I have enough experience. 
+
+[^update]: I have since broken the streak, but it has been over two years and my opinion has not changed
 
 ## Context
 
