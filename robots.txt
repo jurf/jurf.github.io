@@ -1,6 +1,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jurf.github.io/sitemap_index.xml
-Sitemap: https://jurf.github.io/sitemap.xml
-Sitemap: https://jurf.github.io/daap/sitemap.xml
+Sitemap: https://fjalla.eu/sitemap_index.xml
+Sitemap: https://fjalla.eu/sitemap.xml
+Sitemap: https://fjalla.eu/daap/sitemap.xml
